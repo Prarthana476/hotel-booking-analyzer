@@ -1,0 +1,1338 @@
+booking_id,guest,room_no,check_in,check_out,source,status
+B0001,Neil Smith,103,2025-01-01,2025-01-06,Walk-in,Checked-out
+B0002,Karan Silva,104,2025-01-01,2025-01-04,Online Agency,Checked-out
+B0003,Meera Silva,201,2025-01-01,2025-01-02,Direct,Cancelled
+B0004,Asha Mehta,204,2025-01-01,2025-01-04,Direct,Checked-out
+B0005,Zoya Smith,302,2025-01-01,2025-01-06,Online Agency,Checked-out
+B0006,Sara Khan,201,2025-01-02,2025-01-04,Corporate,Checked-out
+B0007,Ravi Joshi,101,2025-01-03,2025-01-04,Corporate,Checked-out
+B0008,Karan Chen,203,2025-01-03,2025-01-04,Online Agency,Checked-out
+B0009,Omar Nair,102,2025-01-04,2025-01-07,Corporate,Checked-out
+B0010,Asha Khan,202,2025-01-04,2025-01-08,Direct,Checked-out
+B0011,Ana Silva,301,2025-01-04,2025-01-09,Direct,Checked-out
+B0012,Asha Nair,101,2025-01-05,2025-01-06,Online Agency,Checked-out
+B0013,Neil Silva,204,2025-01-05,2025-01-10,Corporate,Cancelled
+B0014,Ravi Nair,104,2025-01-06,2025-01-07,Online Agency,Checked-out
+B0015,Zoya Patel,103,2025-01-08,2025-01-12,Walk-in,Checked-out
+B0016,Priya Joshi,202,2025-01-08,2025-01-12,Direct,Checked-out
+B0017,Asha Mehta,101,2025-01-09,2025-01-11,Online Agency,Checked-out
+B0018,Meera Chen,104,2025-01-09,2025-01-14,Online Agency,Checked-out
+B0019,Asha Smith,203,2025-01-09,2025-01-14,Online Agency,Checked-out
+B0020,Zoya Silva,302,2025-01-09,2025-01-12,Phone,Checked-out
+B0021,Karan Khan,204,2025-01-10,2025-01-13,Direct,Checked-out
+B0022,Neil Nair,301,2025-01-10,2025-01-15,Corporate,Checked-out
+B0023,Zoya Chen,202,2025-01-12,2025-01-14,Direct,Cancelled
+B0024,Neil Shah,101,2025-01-13,2025-01-16,Corporate,Checked-out
+B0025,Ravi Chen,102,2025-01-13,2025-01-14,Phone,Checked-out
+B0026,Omar Patel,201,2025-01-13,2025-01-18,Direct,Checked-out
+B0027,Ana Chen,103,2025-01-14,2025-01-19,Phone,Checked-out
+B0028,Asha Silva,104,2025-01-14,2025-01-15,Direct,Cancelled
+B0029,Meera Khan,102,2025-01-15,2025-01-16,Online Agency,Checked-out
+B0030,Asha Chen,101,2025-01-16,2025-01-19,Online Agency,Checked-out
+B0031,Meera Patel,204,2025-01-16,2025-01-17,Direct,Checked-out
+B0032,Sara Shah,104,2025-01-17,2025-01-22,Online Agency,Checked-out
+B0033,Sara Joshi,102,2025-01-18,2025-01-20,Direct,Checked-out
+B0034,Neil Rao,203,2025-01-18,2025-01-22,Online Agency,Checked-out
+B0035,Tom Khan,103,2025-01-19,2025-01-24,Online Agency,Checked-out
+B0036,Tom Patel,202,2025-01-19,2025-01-20,Online Agency,Checked-out
+B0037,Li Silva,204,2025-01-19,2025-01-23,Online Agency,Checked-out
+B0038,Meera Chen,202,2025-01-20,2025-01-22,Walk-in,Checked-out
+B0039,Zoya Joshi,302,2025-01-20,2025-01-23,Direct,Cancelled
+B0040,Tom Joshi,101,2025-01-21,2025-01-25,Online Agency,Cancelled
+B0041,Ana Rao,301,2025-01-21,2025-01-22,Corporate,Checked-out
+B0042,Priya Chen,102,2025-01-22,2025-01-27,Online Agency,Checked-out
+B0043,Omar Khan,202,2025-01-22,2025-01-27,Walk-in,Checked-out
+B0044,Ana Rao,203,2025-01-23,2025-01-28,Phone,Checked-out
+B0045,Ravi Nair,104,2025-01-24,2025-01-29,Direct,Checked-out
+B0046,Sara Joshi,204,2025-01-24,2025-01-28,Corporate,Checked-out
+B0047,Tom Silva,301,2025-01-25,2025-01-29,Online Agency,Checked-out
+B0048,Zoya Joshi,201,2025-01-26,2025-01-31,Corporate,Checked-out
+B0049,Sara Khan,103,2025-01-27,2025-01-28,Online Agency,Checked-out
+B0050,Sara Smith,302,2025-01-28,2025-02-02,Walk-in,Checked-out
+B0051,Karan Shah,101,2025-01-29,2025-01-31,Corporate,Checked-out
+B0052,Zoya Patel,103,2025-01-29,2025-02-03,Corporate,Checked-out
+B0053,Tom Khan,204,2025-01-29,2025-01-30,Direct,Checked-out
+B0054,Tom Shah,104,2025-01-30,2025-02-03,Walk-in,Checked-out
+B0055,Zoya Joshi,203,2025-01-31,2025-02-01,Online Agency,Checked-out
+B0056,Sara Khan,204,2025-01-31,2025-02-03,Online Agency,Checked-out
+B0057,Tom Rao,101,2025-02-01,2025-02-04,Online Agency,Checked-out
+B0058,Sara Silva,201,2025-02-01,2025-02-06,Online Agency,Checked-out
+B0059,Priya Rao,203,2025-02-01,2025-02-02,Direct,Checked-out
+B0060,Sara Rao,102,2025-02-03,2025-02-06,Online Agency,Checked-out
+B0061,Priya Shah,301,2025-02-03,2025-02-05,Online Agency,Checked-out
+B0062,Omar Nair,103,2025-02-05,2025-02-07,Corporate,Checked-out
+B0063,Neil Smith,202,2025-02-05,2025-02-09,Direct,Checked-out
+B0064,Li Smith,103,2025-02-08,2025-02-10,Online Agency,Checked-out
+B0065,Ana Joshi,104,2025-02-08,2025-02-09,Direct,Checked-out
+B0066,Neil Mehta,203,2025-02-08,2025-02-13,Phone,Checked-out
+B0067,Sara Khan,204,2025-02-08,2025-02-11,Corporate,Cancelled
+B0068,Priya Khan,302,2025-02-08,2025-02-13,Online Agency,Checked-out
+B0069,Omar Silva,101,2025-02-09,2025-02-11,Direct,Checked-out
+B0070,Zoya Patel,104,2025-02-09,2025-02-11,Phone,Checked-out
+B0071,Meera Mehta,201,2025-02-09,2025-02-12,Online Agency,Checked-out
+B0072,Zoya Rao,102,2025-02-10,2025-02-14,Online Agency,Checked-out
+B0073,Zoya Rao,104,2025-02-11,2025-02-14,Walk-in,Checked-out
+B0074,Ravi Nair,202,2025-02-11,2025-02-16,Online Agency,Checked-out
+B0075,Asha Smith,104,2025-02-14,2025-02-17,Direct,Checked-out
+B0076,Ravi Mehta,203,2025-02-15,2025-02-20,Online Agency,Checked-out
+B0077,Tom Nair,202,2025-02-16,2025-02-19,Online Agency,Checked-out
+B0078,Ravi Khan,101,2025-02-17,2025-02-18,Online Agency,Checked-out
+B0079,Zoya Patel,102,2025-02-17,2025-02-18,Phone,Checked-out
+B0080,Li Chen,204,2025-02-17,2025-02-20,Online Agency,Checked-out
+B0081,Karan Chen,301,2025-02-17,2025-02-19,Online Agency,Checked-out
+B0082,Li Rao,103,2025-02-18,2025-02-22,Direct,Checked-out
+B0083,Tom Shah,104,2025-02-18,2025-02-19,Corporate,Checked-out
+B0084,Ravi Rao,302,2025-02-19,2025-02-22,Corporate,Checked-out
+B0085,Meera Smith,104,2025-02-20,2025-02-23,Corporate,Cancelled
+B0086,Priya Silva,204,2025-02-21,2025-02-22,Online Agency,Checked-out
+B0087,Omar Patel,301,2025-02-21,2025-02-23,Direct,Checked-out
+B0088,Omar Mehta,101,2025-02-22,2025-02-26,Corporate,Checked-out
+B0089,Ravi Khan,104,2025-02-23,2025-02-24,Phone,Checked-out
+B0090,Sara Khan,202,2025-02-24,2025-02-25,Online Agency,Checked-out
+B0091,Zoya Mehta,102,2025-02-25,2025-02-27,Phone,Checked-out
+B0092,Meera Mehta,201,2025-02-25,2025-02-28,Corporate,Checked-out
+B0093,Li Mehta,204,2025-02-25,2025-02-28,Online Agency,Checked-out
+B0094,Sara Joshi,101,2025-02-27,2025-03-04,Phone,Checked-out
+B0095,Zoya Rao,103,2025-02-27,2025-03-03,Online Agency,Checked-out
+B0096,Meera Patel,104,2025-02-28,2025-03-04,Corporate,Checked-out
+B0097,Ana Smith,102,2025-03-01,2025-03-02,Online Agency,Checked-out
+B0098,Meera Khan,302,2025-03-01,2025-03-05,Walk-in,Cancelled
+B0099,Li Chen,201,2025-03-02,2025-03-05,Walk-in,Checked-out
+B0100,Ravi Shah,202,2025-03-02,2025-03-05,Online Agency,Checked-out
+B0101,Tom Chen,301,2025-03-02,2025-03-03,Corporate,Checked-out
+B0102,Karan Mehta,102,2025-03-04,2025-03-07,Online Agency,Checked-out
+B0103,Neil Mehta,103,2025-03-04,2025-03-09,Corporate,Checked-out
+B0104,Meera Chen,203,2025-03-04,2025-03-07,Direct,Checked-out
+B0105,Asha Shah,101,2025-03-05,2025-03-07,Direct,Checked-out
+B0106,Meera Patel,301,2025-03-05,2025-03-09,Online Agency,Checked-out
+B0107,Ana Silva,204,2025-03-06,2025-03-10,Online Agency,Checked-out
+B0108,Li Khan,203,2025-03-08,2025-03-12,Walk-in,Checked-out
+B0109,Ravi Patel,202,2025-03-09,2025-03-10,Online Agency,Checked-out
+B0110,Asha Rao,301,2025-03-09,2025-03-11,Direct,Checked-out
+B0111,Omar Nair,101,2025-03-10,2025-03-11,Online Agency,Checked-out
+B0112,Priya Chen,103,2025-03-10,2025-03-11,Online Agency,Checked-out
+B0113,Omar Rao,102,2025-03-11,2025-03-14,Online Agency,Checked-out
+B0114,Priya Mehta,103,2025-03-11,2025-03-16,Online Agency,Checked-out
+B0115,Priya Shah,104,2025-03-11,2025-03-13,Phone,Checked-out
+B0116,Zoya Rao,204,2025-03-13,2025-03-16,Direct,Checked-out
+B0117,Neil Silva,302,2025-03-13,2025-03-15,Online Agency,Checked-out
+B0118,Karan Nair,104,2025-03-15,2025-03-20,Direct,Checked-out
+B0119,Priya Chen,203,2025-03-15,2025-03-17,Online Agency,Checked-out
+B0120,Karan Khan,301,2025-03-15,2025-03-20,Walk-in,Checked-out
+B0121,Asha Silva,201,2025-03-16,2025-03-20,Online Agency,Checked-out
+B0122,Tom Silva,102,2025-03-17,2025-03-18,Corporate,Checked-out
+B0123,Priya Rao,204,2025-03-17,2025-03-18,Walk-in,Checked-out
+B0124,Li Rao,302,2025-03-17,2025-03-20,Online Agency,Checked-out
+B0125,Tom Khan,103,2025-03-19,2025-03-20,Online Agency,Checked-out
+B0126,Zoya Rao,101,2025-03-20,2025-03-23,Online Agency,Checked-out
+B0127,Omar Smith,102,2025-03-20,2025-03-24,Online Agency,Cancelled
+B0128,Meera Patel,103,2025-03-20,2025-03-23,Direct,Checked-out
+B0129,Meera Rao,201,2025-03-20,2025-03-21,Walk-in,Checked-out
+B0130,Asha Khan,202,2025-03-20,2025-03-23,Phone,Checked-out
+B0131,Meera Khan,204,2025-03-20,2025-03-25,Direct,Checked-out
+B0132,Sara Joshi,203,2025-03-22,2025-03-27,Corporate,Checked-out
+B0133,Tom Silva,301,2025-03-22,2025-03-27,Direct,Checked-out
+B0134,Li Patel,201,2025-03-23,2025-03-24,Online Agency,Checked-out
+B0135,Priya Joshi,104,2025-03-25,2025-03-30,Online Agency,Checked-out
+B0136,Neil Nair,202,2025-03-25,2025-03-26,Online Agency,Checked-out
+B0137,Sara Silva,204,2025-03-25,2025-03-28,Online Agency,Checked-out
+B0138,Asha Rao,302,2025-03-25,2025-03-27,Walk-in,Checked-out
+B0139,Priya Smith,103,2025-03-26,2025-03-30,Direct,Checked-out
+B0140,Ana Joshi,301,2025-03-30,2025-04-01,Phone,Checked-out
+B0141,Meera Nair,101,2025-03-31,2025-04-05,Direct,Checked-out
+B0142,Omar Khan,203,2025-03-31,2025-04-01,Online Agency,Checked-out
+B0143,Priya Nair,204,2025-03-31,2025-04-02,Walk-in,Cancelled
+B0144,Karan Khan,302,2025-03-31,2025-04-04,Direct,Checked-out
+B0145,Karan Nair,104,2025-04-01,2025-04-06,Corporate,Checked-out
+B0146,Meera Patel,103,2025-04-02,2025-04-03,Direct,Checked-out
+B0147,Priya Patel,201,2025-04-02,2025-04-07,Walk-in,Checked-out
+B0148,Ravi Rao,202,2025-04-02,2025-04-07,Direct,Checked-out
+B0149,Asha Patel,204,2025-04-02,2025-04-03,Online Agency,Checked-out
+B0150,Tom Shah,102,2025-04-03,2025-04-08,Online Agency,Checked-out
+B0151,Sara Smith,204,2025-04-03,2025-04-06,Corporate,Checked-out
+B0152,Priya Joshi,301,2025-04-03,2025-04-08,Direct,Checked-out
+B0153,Asha Shah,203,2025-04-04,2025-04-06,Direct,Checked-out
+B0154,Tom Patel,104,2025-04-06,2025-04-10,Online Agency,Cancelled
+B0155,Karan Rao,203,2025-04-06,2025-04-11,Online Agency,Checked-out
+B0156,Priya Chen,103,2025-04-08,2025-04-13,Corporate,Checked-out
+B0157,Zoya Rao,201,2025-04-08,2025-04-11,Direct,Checked-out
+B0158,Li Shah,204,2025-04-09,2025-04-11,Online Agency,Checked-out
+B0159,Priya Khan,101,2025-04-10,2025-04-11,Online Agency,Checked-out
+B0160,Li Khan,202,2025-04-10,2025-04-12,Direct,Checked-out
+B0161,Omar Shah,101,2025-04-11,2025-04-16,Direct,Checked-out
+B0162,Ravi Khan,104,2025-04-11,2025-04-15,Phone,Checked-out
+B0163,Zoya Smith,201,2025-04-11,2025-04-15,Corporate,Checked-out
+B0164,Tom Mehta,302,2025-04-11,2025-04-13,Corporate,Checked-out
+B0165,Ana Khan,203,2025-04-12,2025-04-13,Direct,Checked-out
+B0166,Asha Rao,102,2025-04-13,2025-04-17,Direct,Checked-out
+B0167,Li Smith,302,2025-04-13,2025-04-17,Direct,Checked-out
+B0168,Zoya Shah,202,2025-04-14,2025-04-16,Online Agency,Checked-out
+B0169,Li Chen,103,2025-04-15,2025-04-19,Direct,Checked-out
+B0170,Sara Joshi,203,2025-04-15,2025-04-16,Online Agency,Cancelled
+B0171,Karan Rao,201,2025-04-17,2025-04-22,Phone,Checked-out
+B0172,Omar Smith,102,2025-04-18,2025-04-20,Direct,Checked-out
+B0173,Ravi Mehta,202,2025-04-18,2025-04-22,Online Agency,Checked-out
+B0174,Priya Shah,104,2025-04-19,2025-04-20,Direct,Checked-out
+B0175,Tom Chen,203,2025-04-19,2025-04-22,Corporate,Checked-out
+B0176,Neil Smith,204,2025-04-19,2025-04-20,Direct,Checked-out
+B0177,Sara Patel,301,2025-04-19,2025-04-24,Direct,Checked-out
+B0178,Asha Shah,302,2025-04-19,2025-04-21,Online Agency,Checked-out
+B0179,Tom Rao,103,2025-04-20,2025-04-21,Phone,Checked-out
+B0180,Tom Silva,302,2025-04-21,2025-04-24,Corporate,Checked-out
+B0181,Karan Nair,101,2025-04-22,2025-04-27,Online Agency,Checked-out
+B0182,Ana Chen,202,2025-04-22,2025-04-27,Direct,Checked-out
+B0183,Karan Mehta,103,2025-04-23,2025-04-26,Online Agency,Checked-out
+B0184,Ana Shah,104,2025-04-23,2025-04-26,Phone,Checked-out
+B0185,Li Shah,201,2025-04-23,2025-04-24,Direct,Checked-out
+B0186,Ana Rao,201,2025-04-25,2025-04-28,Direct,Checked-out
+B0187,Omar Chen,301,2025-04-25,2025-04-29,Phone,Checked-out
+B0188,Omar Joshi,102,2025-04-27,2025-04-29,Phone,Checked-out
+B0189,Omar Silva,204,2025-04-27,2025-04-28,Corporate,Checked-out
+B0190,Sara Mehta,104,2025-04-28,2025-05-02,Online Agency,Cancelled
+B0191,Ana Patel,201,2025-04-28,2025-04-30,Corporate,Cancelled
+B0192,Sara Smith,203,2025-04-28,2025-04-29,Direct,Checked-out
+B0193,Karan Joshi,203,2025-04-29,2025-05-02,Direct,Checked-out
+B0194,Li Silva,204,2025-04-30,2025-05-03,Direct,Checked-out
+B0195,Priya Silva,301,2025-04-30,2025-05-01,Direct,Checked-out
+B0196,Ravi Khan,101,2025-05-02,2025-05-05,Online Agency,Checked-out
+B0197,Karan Smith,102,2025-05-02,2025-05-05,Online Agency,Checked-out
+B0198,Zoya Smith,104,2025-05-02,2025-05-05,Online Agency,Checked-out
+B0199,Neil Shah,201,2025-05-02,2025-05-05,Online Agency,Checked-out
+B0200,Meera Chen,103,2025-05-03,2025-05-07,Direct,Checked-out
+B0201,Sara Khan,203,2025-05-03,2025-05-07,Online Agency,Checked-out
+B0202,Ana Patel,301,2025-05-03,2025-05-04,Online Agency,Checked-out
+B0203,Neil Chen,204,2025-05-04,2025-05-07,Corporate,Checked-out
+B0204,Ravi Shah,302,2025-05-04,2025-05-08,Direct,Checked-out
+B0205,Karan Patel,101,2025-05-05,2025-05-06,Direct,Checked-out
+B0206,Ana Shah,104,2025-05-06,2025-05-08,Direct,Cancelled
+B0207,Karan Mehta,301,2025-05-06,2025-05-10,Corporate,Checked-out
+B0208,Karan Rao,101,2025-05-07,2025-05-08,Direct,Checked-out
+B0209,Ravi Chen,102,2025-05-07,2025-05-10,Online Agency,Cancelled
+B0210,Li Mehta,201,2025-05-07,2025-05-09,Online Agency,Checked-out
+B0211,Li Smith,104,2025-05-08,2025-05-12,Online Agency,Checked-out
+B0212,Neil Rao,103,2025-05-09,2025-05-11,Online Agency,Checked-out
+B0213,Li Rao,202,2025-05-09,2025-05-14,Online Agency,Checked-out
+B0214,Ravi Shah,203,2025-05-09,2025-05-13,Direct,Checked-out
+B0215,Ana Patel,204,2025-05-09,2025-05-12,Corporate,Cancelled
+B0216,Ana Chen,302,2025-05-09,2025-05-14,Online Agency,Checked-out
+B0217,Ana Joshi,101,2025-05-10,2025-05-15,Corporate,Checked-out
+B0218,Neil Khan,102,2025-05-10,2025-05-15,Direct,Checked-out
+B0219,Karan Smith,201,2025-05-10,2025-05-14,Direct,Cancelled
+B0220,Asha Joshi,301,2025-05-11,2025-05-12,Online Agency,Cancelled
+B0221,Meera Rao,104,2025-05-12,2025-05-16,Direct,Checked-out
+B0222,Ravi Chen,103,2025-05-14,2025-05-17,Direct,Checked-out
+B0223,Karan Rao,204,2025-05-14,2025-05-15,Walk-in,Checked-out
+B0224,Omar Nair,201,2025-05-15,2025-05-17,Online Agency,Checked-out
+B0225,Omar Silva,302,2025-05-15,2025-05-16,Direct,Checked-out
+B0226,Ravi Silva,101,2025-05-16,2025-05-20,Direct,Checked-out
+B0227,Karan Smith,102,2025-05-16,2025-05-21,Direct,Checked-out
+B0228,Asha Smith,301,2025-05-16,2025-05-20,Online Agency,Checked-out
+B0229,Asha Silva,203,2025-05-17,2025-05-21,Online Agency,Checked-out
+B0230,Li Khan,204,2025-05-17,2025-05-20,Phone,Checked-out
+B0231,Li Mehta,302,2025-05-17,2025-05-18,Phone,Checked-out
+B0232,Priya Shah,103,2025-05-18,2025-05-23,Corporate,Checked-out
+B0233,Meera Shah,104,2025-05-18,2025-05-19,Corporate,Checked-out
+B0234,Ana Joshi,201,2025-05-19,2025-05-22,Corporate,Checked-out
+B0235,Asha Rao,202,2025-05-20,2025-05-25,Corporate,Checked-out
+B0236,Ravi Nair,302,2025-05-20,2025-05-25,Online Agency,Checked-out
+B0237,Tom Shah,101,2025-05-21,2025-05-25,Direct,Checked-out
+B0238,Priya Rao,104,2025-05-21,2025-05-24,Direct,Checked-out
+B0239,Priya Shah,204,2025-05-21,2025-05-25,Corporate,Checked-out
+B0240,Li Chen,203,2025-05-22,2025-05-25,Online Agency,Checked-out
+B0241,Meera Shah,102,2025-05-24,2025-05-26,Online Agency,Checked-out
+B0242,Li Khan,104,2025-05-24,2025-05-28,Online Agency,Checked-out
+B0243,Karan Khan,101,2025-05-25,2025-05-28,Direct,Checked-out
+B0244,Zoya Rao,202,2025-05-25,2025-05-28,Walk-in,Cancelled
+B0245,Tom Silva,204,2025-05-25,2025-05-27,Online Agency,Checked-out
+B0246,Zoya Chen,203,2025-05-26,2025-05-27,Direct,Checked-out
+B0247,Ravi Patel,301,2025-05-26,2025-05-27,Online Agency,Checked-out
+B0248,Meera Chen,103,2025-05-27,2025-05-29,Direct,Checked-out
+B0249,Asha Shah,203,2025-05-27,2025-05-30,Online Agency,Checked-out
+B0250,Omar Silva,204,2025-05-27,2025-05-28,Corporate,Checked-out
+B0251,Omar Patel,301,2025-05-27,2025-05-28,Direct,Checked-out
+B0252,Tom Shah,302,2025-05-27,2025-05-28,Direct,Checked-out
+B0253,Karan Mehta,104,2025-05-28,2025-05-30,Direct,Checked-out
+B0254,Li Smith,201,2025-05-28,2025-06-02,Direct,Checked-out
+B0255,Priya Patel,102,2025-05-29,2025-05-31,Direct,Checked-out
+B0256,Li Patel,301,2025-05-29,2025-06-02,Phone,Cancelled
+B0257,Ravi Chen,101,2025-05-30,2025-06-03,Online Agency,Checked-out
+B0258,Asha Chen,202,2025-05-30,2025-06-04,Direct,Checked-out
+B0259,Priya Khan,203,2025-05-31,2025-06-03,Online Agency,Cancelled
+B0260,Asha Mehta,302,2025-05-31,2025-06-05,Online Agency,Checked-out
+B0261,Ravi Patel,104,2025-06-01,2025-06-02,Online Agency,Checked-out
+B0262,Tom Khan,103,2025-06-02,2025-06-07,Walk-in,Checked-out
+B0263,Neil Shah,104,2025-06-02,2025-06-06,Direct,Checked-out
+B0264,Li Smith,204,2025-06-02,2025-06-03,Online Agency,Checked-out
+B0265,Li Joshi,102,2025-06-03,2025-06-04,Walk-in,Checked-out
+B0266,Sara Shah,203,2025-06-03,2025-06-07,Online Agency,Checked-out
+B0267,Karan Joshi,301,2025-06-03,2025-06-07,Walk-in,Cancelled
+B0268,Tom Nair,102,2025-06-04,2025-06-06,Direct,Checked-out
+B0269,Tom Khan,201,2025-06-04,2025-06-08,Online Agency,Checked-out
+B0270,Omar Mehta,204,2025-06-04,2025-06-05,Direct,Checked-out
+B0271,Karan Mehta,101,2025-06-05,2025-06-10,Corporate,Checked-out
+B0272,Karan Rao,202,2025-06-05,2025-06-08,Online Agency,Checked-out
+B0273,Meera Khan,204,2025-06-05,2025-06-08,Direct,Checked-out
+B0274,Sara Silva,102,2025-06-07,2025-06-08,Online Agency,Cancelled
+B0275,Omar Nair,103,2025-06-07,2025-06-12,Direct,Checked-out
+B0276,Omar Patel,104,2025-06-07,2025-06-12,Phone,Checked-out
+B0277,Asha Shah,302,2025-06-07,2025-06-09,Online Agency,Cancelled
+B0278,Li Nair,201,2025-06-09,2025-06-10,Corporate,Checked-out
+B0279,Ravi Smith,202,2025-06-09,2025-06-13,Direct,Checked-out
+B0280,Zoya Khan,203,2025-06-09,2025-06-13,Online Agency,Cancelled
+B0281,Ana Joshi,301,2025-06-09,2025-06-13,Walk-in,Checked-out
+B0282,Tom Patel,302,2025-06-09,2025-06-12,Direct,Checked-out
+B0283,Ana Mehta,102,2025-06-10,2025-06-14,Direct,Cancelled
+B0284,Tom Silva,201,2025-06-10,2025-06-12,Walk-in,Checked-out
+B0285,Neil Chen,204,2025-06-10,2025-06-12,Phone,Checked-out
+B0286,Meera Silva,101,2025-06-11,2025-06-13,Corporate,Checked-out
+B0287,Zoya Mehta,201,2025-06-12,2025-06-16,Corporate,Checked-out
+B0288,Li Chen,302,2025-06-12,2025-06-17,Online Agency,Checked-out
+B0289,Priya Rao,104,2025-06-13,2025-06-15,Corporate,Checked-out
+B0290,Omar Silva,203,2025-06-13,2025-06-14,Online Agency,Checked-out
+B0291,Karan Shah,301,2025-06-13,2025-06-14,Online Agency,Checked-out
+B0292,Neil Silva,102,2025-06-14,2025-06-19,Online Agency,Checked-out
+B0293,Li Khan,103,2025-06-14,2025-06-19,Walk-in,Checked-out
+B0294,Tom Rao,202,2025-06-14,2025-06-19,Direct,Checked-out
+B0295,Omar Patel,203,2025-06-14,2025-06-17,Corporate,Checked-out
+B0296,Karan Shah,204,2025-06-14,2025-06-19,Walk-in,Checked-out
+B0297,Ana Mehta,301,2025-06-14,2025-06-15,Walk-in,Checked-out
+B0298,Meera Rao,201,2025-06-16,2025-06-19,Direct,Cancelled
+B0299,Karan Rao,101,2025-06-17,2025-06-22,Online Agency,Checked-out
+B0300,Sara Nair,104,2025-06-17,2025-06-22,Online Agency,Checked-out
+B0301,Ravi Khan,203,2025-06-17,2025-06-20,Direct,Checked-out
+B0302,Omar Mehta,301,2025-06-17,2025-06-20,Phone,Checked-out
+B0303,Neil Joshi,302,2025-06-17,2025-06-20,Corporate,Checked-out
+B0304,Neil Smith,202,2025-06-19,2025-06-24,Walk-in,Checked-out
+B0305,Ana Khan,204,2025-06-20,2025-06-24,Corporate,Checked-out
+B0306,Sara Nair,301,2025-06-20,2025-06-21,Online Agency,Cancelled
+B0307,Zoya Shah,102,2025-06-21,2025-06-25,Online Agency,Checked-out
+B0308,Ravi Khan,103,2025-06-21,2025-06-23,Online Agency,Checked-out
+B0309,Omar Silva,201,2025-06-21,2025-06-23,Online Agency,Checked-out
+B0310,Li Mehta,203,2025-06-22,2025-06-26,Corporate,Checked-out
+B0311,Asha Khan,302,2025-06-22,2025-06-23,Direct,Checked-out
+B0312,Tom Nair,104,2025-06-23,2025-06-26,Online Agency,Checked-out
+B0313,Meera Mehta,301,2025-06-23,2025-06-26,Online Agency,Checked-out
+B0314,Karan Joshi,302,2025-06-23,2025-06-25,Online Agency,Checked-out
+B0315,Tom Joshi,201,2025-06-24,2025-06-28,Online Agency,Checked-out
+B0316,Ana Chen,101,2025-06-25,2025-06-26,Direct,Checked-out
+B0317,Asha Chen,103,2025-06-25,2025-06-26,Online Agency,Checked-out
+B0318,Tom Joshi,202,2025-06-25,2025-06-26,Direct,Checked-out
+B0319,Tom Rao,103,2025-06-26,2025-06-30,Online Agency,Checked-out
+B0320,Zoya Smith,104,2025-06-26,2025-07-01,Corporate,Checked-out
+B0321,Neil Nair,202,2025-06-26,2025-06-30,Online Agency,Cancelled
+B0322,Priya Silva,302,2025-06-26,2025-07-01,Online Agency,Checked-out
+B0323,Omar Khan,102,2025-06-27,2025-07-02,Direct,Checked-out
+B0324,Karan Rao,204,2025-06-27,2025-06-29,Corporate,Checked-out
+B0325,Li Joshi,301,2025-06-27,2025-06-30,Corporate,Checked-out
+B0326,Neil Nair,201,2025-06-28,2025-07-03,Walk-in,Cancelled
+B0327,Tom Patel,203,2025-06-28,2025-06-29,Direct,Cancelled
+B0328,Ana Shah,101,2025-07-01,2025-07-06,Direct,Cancelled
+B0329,Priya Mehta,204,2025-07-01,2025-07-02,Online Agency,Checked-out
+B0330,Ana Shah,103,2025-07-02,2025-07-05,Phone,Checked-out
+B0331,Neil Silva,104,2025-07-02,2025-07-06,Online Agency,Checked-out
+B0332,Tom Silva,202,2025-07-02,2025-07-07,Direct,Checked-out
+B0333,Li Patel,301,2025-07-02,2025-07-03,Walk-in,Checked-out
+B0334,Neil Silva,102,2025-07-03,2025-07-07,Phone,Checked-out
+B0335,Omar Silva,201,2025-07-03,2025-07-06,Online Agency,Checked-out
+B0336,Priya Shah,203,2025-07-03,2025-07-05,Online Agency,Cancelled
+B0337,Omar Chen,204,2025-07-03,2025-07-04,Online Agency,Cancelled
+B0338,Tom Silva,302,2025-07-03,2025-07-07,Corporate,Checked-out
+B0339,Priya Rao,204,2025-07-04,2025-07-06,Corporate,Checked-out
+B0340,Ravi Smith,301,2025-07-04,2025-07-06,Direct,Checked-out
+B0341,Ravi Chen,103,2025-07-05,2025-07-06,Direct,Checked-out
+B0342,Zoya Silva,103,2025-07-06,2025-07-08,Walk-in,Checked-out
+B0343,Ravi Chen,203,2025-07-06,2025-07-11,Walk-in,Cancelled
+B0344,Ana Joshi,301,2025-07-06,2025-07-10,Online Agency,Checked-out
+B0345,Priya Patel,104,2025-07-07,2025-07-10,Direct,Checked-out
+B0346,Meera Silva,201,2025-07-07,2025-07-08,Online Agency,Checked-out
+B0347,Karan Joshi,101,2025-07-08,2025-07-12,Corporate,Checked-out
+B0348,Omar Shah,102,2025-07-08,2025-07-11,Phone,Checked-out
+B0349,Priya Silva,202,2025-07-08,2025-07-13,Direct,Checked-out
+B0350,Karan Rao,204,2025-07-08,2025-07-10,Direct,Checked-out
+B0351,Tom Khan,302,2025-07-09,2025-07-11,Phone,Cancelled
+B0352,Zoya Smith,201,2025-07-10,2025-07-12,Corporate,Checked-out
+B0353,Neil Mehta,102,2025-07-11,2025-07-12,Phone,Checked-out
+B0354,Tom Nair,103,2025-07-11,2025-07-15,Phone,Checked-out
+B0355,Ravi Khan,104,2025-07-11,2025-07-16,Corporate,Checked-out
+B0356,Asha Chen,301,2025-07-11,2025-07-15,Direct,Checked-out
+B0357,Ana Joshi,201,2025-07-12,2025-07-17,Direct,Checked-out
+B0358,Asha Rao,204,2025-07-12,2025-07-16,Walk-in,Checked-out
+B0359,Li Silva,202,2025-07-13,2025-07-14,Phone,Checked-out
+B0360,Neil Silva,203,2025-07-13,2025-07-15,Direct,Cancelled
+B0361,Meera Smith,302,2025-07-13,2025-07-18,Online Agency,Checked-out
+B0362,Li Smith,101,2025-07-14,2025-07-15,Online Agency,Checked-out
+B0363,Sara Smith,102,2025-07-14,2025-07-19,Phone,Checked-out
+B0364,Sara Nair,103,2025-07-15,2025-07-18,Corporate,Checked-out
+B0365,Meera Chen,202,2025-07-15,2025-07-20,Phone,Checked-out
+B0366,Karan Khan,301,2025-07-15,2025-07-17,Online Agency,Checked-out
+B0367,Tom Rao,101,2025-07-16,2025-07-19,Online Agency,Checked-out
+B0368,Karan Patel,203,2025-07-16,2025-07-21,Online Agency,Checked-out
+B0369,Tom Chen,204,2025-07-17,2025-07-21,Online Agency,Checked-out
+B0370,Priya Chen,103,2025-07-18,2025-07-20,Walk-in,Checked-out
+B0371,Asha Khan,104,2025-07-18,2025-07-23,Corporate,Checked-out
+B0372,Zoya Smith,201,2025-07-18,2025-07-19,Phone,Checked-out
+B0373,Sara Mehta,301,2025-07-18,2025-07-21,Online Agency,Checked-out
+B0374,Ana Rao,201,2025-07-19,2025-07-24,Direct,Checked-out
+B0375,Li Shah,302,2025-07-19,2025-07-24,Online Agency,Checked-out
+B0376,Ana Shah,101,2025-07-20,2025-07-21,Online Agency,Cancelled
+B0377,Ravi Khan,101,2025-07-21,2025-07-26,Corporate,Checked-out
+B0378,Priya Joshi,102,2025-07-21,2025-07-25,Phone,Checked-out
+B0379,Sara Khan,204,2025-07-21,2025-07-23,Corporate,Checked-out
+B0380,Meera Rao,301,2025-07-21,2025-07-22,Online Agency,Checked-out
+B0381,Karan Chen,103,2025-07-22,2025-07-26,Walk-in,Checked-out
+B0382,Ana Nair,202,2025-07-22,2025-07-26,Direct,Checked-out
+B0383,Sara Mehta,203,2025-07-23,2025-07-24,Direct,Checked-out
+B0384,Asha Khan,301,2025-07-23,2025-07-28,Online Agency,Checked-out
+B0385,Li Chen,201,2025-07-24,2025-07-29,Corporate,Checked-out
+B0386,Meera Mehta,104,2025-07-25,2025-07-29,Walk-in,Checked-out
+B0387,Ravi Nair,204,2025-07-25,2025-07-29,Online Agency,Checked-out
+B0388,Omar Khan,102,2025-07-26,2025-07-31,Direct,Checked-out
+B0389,Ana Shah,202,2025-07-26,2025-07-29,Online Agency,Checked-out
+B0390,Asha Mehta,203,2025-07-26,2025-07-28,Corporate,Checked-out
+B0391,Neil Rao,302,2025-07-26,2025-07-27,Direct,Checked-out
+B0392,Ana Nair,101,2025-07-27,2025-07-31,Phone,Checked-out
+B0393,Ravi Patel,103,2025-07-27,2025-07-29,Phone,Checked-out
+B0394,Karan Silva,302,2025-07-27,2025-07-29,Direct,Checked-out
+B0395,Omar Shah,203,2025-07-28,2025-08-02,Direct,Checked-out
+B0396,Neil Nair,301,2025-07-28,2025-07-30,Phone,Checked-out
+B0397,Zoya Smith,104,2025-07-29,2025-08-01,Direct,Checked-out
+B0398,Neil Joshi,202,2025-07-29,2025-08-02,Direct,Checked-out
+B0399,Ana Joshi,204,2025-07-29,2025-07-31,Online Agency,Checked-out
+B0400,Priya Joshi,302,2025-07-29,2025-07-30,Phone,Checked-out
+B0401,Ravi Patel,301,2025-07-30,2025-07-31,Online Agency,Checked-out
+B0402,Meera Rao,101,2025-07-31,2025-08-05,Phone,Checked-out
+B0403,Ana Khan,102,2025-07-31,2025-08-05,Walk-in,Checked-out
+B0404,Ana Patel,103,2025-07-31,2025-08-01,Direct,Checked-out
+B0405,Karan Joshi,201,2025-07-31,2025-08-03,Online Agency,Checked-out
+B0406,Li Rao,302,2025-07-31,2025-08-03,Corporate,Checked-out
+B0407,Omar Khan,103,2025-08-02,2025-08-03,Direct,Checked-out
+B0408,Priya Silva,203,2025-08-02,2025-08-03,Online Agency,Checked-out
+B0409,Sara Rao,204,2025-08-02,2025-08-03,Online Agency,Cancelled
+B0410,Omar Khan,301,2025-08-02,2025-08-03,Direct,Checked-out
+B0411,Omar Nair,104,2025-08-03,2025-08-08,Walk-in,Checked-out
+B0412,Omar Joshi,202,2025-08-04,2025-08-07,Online Agency,Checked-out
+B0413,Ana Mehta,204,2025-08-04,2025-08-06,Online Agency,Checked-out
+B0414,Ana Silva,301,2025-08-04,2025-08-06,Corporate,Checked-out
+B0415,Karan Smith,101,2025-08-05,2025-08-10,Online Agency,Checked-out
+B0416,Karan Joshi,103,2025-08-05,2025-08-06,Corporate,Checked-out
+B0417,Tom Rao,203,2025-08-05,2025-08-09,Direct,Checked-out
+B0418,Sara Mehta,302,2025-08-05,2025-08-06,Corporate,Checked-out
+B0419,Asha Joshi,102,2025-08-06,2025-08-11,Online Agency,Checked-out
+B0420,Karan Smith,201,2025-08-06,2025-08-08,Online Agency,Checked-out
+B0421,Tom Nair,103,2025-08-07,2025-08-10,Corporate,Checked-out
+B0422,Zoya Shah,202,2025-08-07,2025-08-09,Online Agency,Checked-out
+B0423,Meera Shah,204,2025-08-07,2025-08-11,Corporate,Checked-out
+B0424,Sara Chen,302,2025-08-07,2025-08-12,Corporate,Checked-out
+B0425,Karan Khan,301,2025-08-08,2025-08-10,Direct,Checked-out
+B0426,Karan Patel,104,2025-08-09,2025-08-10,Direct,Cancelled
+B0427,Meera Joshi,201,2025-08-09,2025-08-14,Phone,Checked-out
+B0428,Priya Patel,202,2025-08-09,2025-08-11,Corporate,Checked-out
+B0429,Asha Shah,101,2025-08-10,2025-08-13,Online Agency,Checked-out
+B0430,Zoya Mehta,103,2025-08-10,2025-08-13,Corporate,Cancelled
+B0431,Asha Joshi,203,2025-08-11,2025-08-13,Online Agency,Checked-out
+B0432,Meera Smith,104,2025-08-12,2025-08-15,Direct,Checked-out
+B0433,Neil Khan,202,2025-08-12,2025-08-13,Online Agency,Checked-out
+B0434,Asha Mehta,204,2025-08-12,2025-08-16,Direct,Checked-out
+B0435,Tom Khan,301,2025-08-12,2025-08-15,Online Agency,Checked-out
+B0436,Priya Smith,102,2025-08-13,2025-08-16,Online Agency,Cancelled
+B0437,Priya Smith,203,2025-08-13,2025-08-18,Online Agency,Checked-out
+B0438,Tom Mehta,302,2025-08-14,2025-08-15,Phone,Checked-out
+B0439,Meera Rao,101,2025-08-15,2025-08-18,Online Agency,Cancelled
+B0440,Tom Silva,103,2025-08-15,2025-08-20,Corporate,Checked-out
+B0441,Li Chen,202,2025-08-15,2025-08-17,Walk-in,Checked-out
+B0442,Meera Smith,301,2025-08-15,2025-08-20,Online Agency,Checked-out
+B0443,Neil Khan,302,2025-08-15,2025-08-18,Phone,Cancelled
+B0444,Neil Khan,201,2025-08-16,2025-08-19,Direct,Checked-out
+B0445,Meera Patel,102,2025-08-17,2025-08-19,Online Agency,Checked-out
+B0446,Zoya Mehta,104,2025-08-17,2025-08-20,Direct,Cancelled
+B0447,Priya Rao,204,2025-08-17,2025-08-20,Corporate,Checked-out
+B0448,Ravi Shah,101,2025-08-18,2025-08-23,Online Agency,Checked-out
+B0449,Meera Smith,102,2025-08-19,2025-08-21,Online Agency,Checked-out
+B0450,Tom Smith,201,2025-08-19,2025-08-23,Online Agency,Checked-out
+B0451,Sara Joshi,202,2025-08-19,2025-08-21,Phone,Checked-out
+B0452,Ravi Joshi,203,2025-08-19,2025-08-21,Corporate,Checked-out
+B0453,Tom Silva,104,2025-08-20,2025-08-23,Online Agency,Checked-out
+B0454,Ana Chen,301,2025-08-20,2025-08-23,Corporate,Checked-out
+B0455,Omar Nair,302,2025-08-20,2025-08-24,Corporate,Checked-out
+B0456,Meera Mehta,102,2025-08-22,2025-08-27,Corporate,Checked-out
+B0457,Meera Nair,103,2025-08-22,2025-08-26,Online Agency,Checked-out
+B0458,Tom Khan,203,2025-08-22,2025-08-27,Online Agency,Checked-out
+B0459,Meera Smith,204,2025-08-22,2025-08-25,Online Agency,Checked-out
+B0460,Zoya Joshi,202,2025-08-23,2025-08-26,Online Agency,Checked-out
+B0461,Meera Nair,301,2025-08-23,2025-08-27,Online Agency,Checked-out
+B0462,Ravi Mehta,201,2025-08-24,2025-08-27,Online Agency,Checked-out
+B0463,Li Mehta,101,2025-08-25,2025-08-30,Online Agency,Cancelled
+B0464,Zoya Silva,104,2025-08-25,2025-08-28,Corporate,Checked-out
+B0465,Karan Rao,302,2025-08-25,2025-08-29,Phone,Checked-out
+B0466,Omar Patel,103,2025-08-27,2025-08-29,Phone,Checked-out
+B0467,Tom Smith,202,2025-08-27,2025-08-28,Phone,Cancelled
+B0468,Zoya Shah,202,2025-08-28,2025-09-01,Online Agency,Checked-out
+B0469,Omar Chen,203,2025-08-28,2025-08-29,Phone,Checked-out
+B0470,Karan Mehta,204,2025-08-28,2025-09-01,Direct,Cancelled
+B0471,Meera Smith,301,2025-08-28,2025-09-02,Online Agency,Checked-out
+B0472,Omar Joshi,102,2025-08-29,2025-08-30,Phone,Checked-out
+B0473,Li Khan,201,2025-08-29,2025-09-01,Direct,Checked-out
+B0474,Karan Silva,203,2025-08-29,2025-08-30,Online Agency,Cancelled
+B0475,Asha Smith,101,2025-08-31,2025-09-03,Corporate,Checked-out
+B0476,Sara Shah,102,2025-08-31,2025-09-02,Direct,Checked-out
+B0477,Karan Rao,103,2025-08-31,2025-09-04,Direct,Checked-out
+B0478,Li Mehta,203,2025-08-31,2025-09-04,Phone,Cancelled
+B0479,Ravi Shah,302,2025-08-31,2025-09-03,Online Agency,Checked-out
+B0480,Omar Patel,204,2025-09-01,2025-09-03,Online Agency,Checked-out
+B0481,Neil Khan,104,2025-09-02,2025-09-07,Corporate,Checked-out
+B0482,Li Patel,201,2025-09-02,2025-09-03,Corporate,Checked-out
+B0483,Li Chen,202,2025-09-02,2025-09-07,Direct,Checked-out
+B0484,Sara Joshi,101,2025-09-03,2025-09-04,Online Agency,Checked-out
+B0485,Asha Khan,102,2025-09-03,2025-09-08,Phone,Checked-out
+B0486,Zoya Rao,302,2025-09-03,2025-09-04,Direct,Checked-out
+B0487,Ravi Nair,103,2025-09-04,2025-09-05,Walk-in,Checked-out
+B0488,Zoya Mehta,204,2025-09-04,2025-09-09,Online Agency,Checked-out
+B0489,Priya Joshi,301,2025-09-04,2025-09-08,Online Agency,Checked-out
+B0490,Priya Nair,201,2025-09-05,2025-09-10,Direct,Checked-out
+B0491,Meera Silva,101,2025-09-06,2025-09-08,Corporate,Checked-out
+B0492,Ana Joshi,203,2025-09-06,2025-09-07,Phone,Checked-out
+B0493,Tom Khan,101,2025-09-08,2025-09-11,Online Agency,Checked-out
+B0494,Karan Joshi,103,2025-09-08,2025-09-13,Corporate,Checked-out
+B0495,Karan Shah,203,2025-09-08,2025-09-11,Direct,Checked-out
+B0496,Priya Mehta,104,2025-09-09,2025-09-11,Phone,Checked-out
+B0497,Meera Nair,204,2025-09-09,2025-09-11,Direct,Checked-out
+B0498,Karan Chen,301,2025-09-09,2025-09-14,Direct,Checked-out
+B0499,Tom Nair,302,2025-09-09,2025-09-11,Online Agency,Checked-out
+B0500,Priya Rao,102,2025-09-10,2025-09-13,Walk-in,Checked-out
+B0501,Zoya Mehta,202,2025-09-10,2025-09-15,Online Agency,Checked-out
+B0502,Ana Patel,104,2025-09-11,2025-09-16,Corporate,Checked-out
+B0503,Omar Joshi,203,2025-09-11,2025-09-13,Direct,Checked-out
+B0504,Omar Khan,101,2025-09-12,2025-09-13,Direct,Checked-out
+B0505,Ana Rao,201,2025-09-12,2025-09-14,Direct,Checked-out
+B0506,Asha Nair,204,2025-09-12,2025-09-17,Corporate,Checked-out
+B0507,Zoya Patel,302,2025-09-13,2025-09-14,Corporate,Checked-out
+B0508,Sara Nair,102,2025-09-14,2025-09-18,Direct,Checked-out
+B0509,Asha Khan,201,2025-09-14,2025-09-19,Online Agency,Cancelled
+B0510,Omar Mehta,203,2025-09-14,2025-09-18,Corporate,Checked-out
+B0511,Meera Smith,301,2025-09-14,2025-09-17,Online Agency,Checked-out
+B0512,Sara Smith,101,2025-09-15,2025-09-17,Phone,Checked-out
+B0513,Neil Rao,103,2025-09-15,2025-09-17,Corporate,Checked-out
+B0514,Li Rao,202,2025-09-15,2025-09-18,Online Agency,Checked-out
+B0515,Omar Mehta,104,2025-09-16,2025-09-21,Online Agency,Checked-out
+B0516,Zoya Nair,302,2025-09-16,2025-09-21,Direct,Checked-out
+B0517,Omar Khan,103,2025-09-17,2025-09-19,Direct,Checked-out
+B0518,Asha Nair,202,2025-09-18,2025-09-22,Walk-in,Checked-out
+B0519,Li Smith,301,2025-09-18,2025-09-20,Online Agency,Checked-out
+B0520,Priya Khan,203,2025-09-19,2025-09-23,Online Agency,Checked-out
+B0521,Ravi Smith,204,2025-09-19,2025-09-20,Online Agency,Checked-out
+B0522,Li Smith,101,2025-09-20,2025-09-25,Corporate,Checked-out
+B0523,Ravi Silva,102,2025-09-20,2025-09-25,Walk-in,Checked-out
+B0524,Ravi Smith,204,2025-09-20,2025-09-21,Online Agency,Checked-out
+B0525,Omar Chen,301,2025-09-20,2025-09-24,Online Agency,Checked-out
+B0526,Neil Rao,103,2025-09-21,2025-09-23,Direct,Checked-out
+B0527,Ana Joshi,201,2025-09-21,2025-09-26,Direct,Checked-out
+B0528,Omar Rao,204,2025-09-21,2025-09-25,Phone,Checked-out
+B0529,Tom Shah,104,2025-09-22,2025-09-24,Online Agency,Checked-out
+B0530,Ravi Silva,202,2025-09-23,2025-09-26,Phone,Checked-out
+B0531,Li Khan,302,2025-09-23,2025-09-28,Direct,Checked-out
+B0532,Omar Chen,103,2025-09-24,2025-09-27,Online Agency,Checked-out
+B0533,Omar Chen,203,2025-09-24,2025-09-29,Direct,Cancelled
+B0534,Priya Patel,101,2025-09-25,2025-09-28,Corporate,Checked-out
+B0535,Meera Chen,301,2025-09-25,2025-09-29,Online Agency,Checked-out
+B0536,Karan Shah,104,2025-09-26,2025-09-29,Online Agency,Checked-out
+B0537,Neil Joshi,102,2025-09-27,2025-09-28,Direct,Checked-out
+B0538,Omar Smith,204,2025-09-27,2025-09-30,Phone,Checked-out
+B0539,Ana Nair,101,2025-09-28,2025-10-01,Online Agency,Checked-out
+B0540,Sara Chen,302,2025-09-28,2025-09-30,Corporate,Checked-out
+B0541,Neil Mehta,102,2025-09-29,2025-10-03,Online Agency,Checked-out
+B0542,Omar Khan,201,2025-09-29,2025-10-03,Direct,Checked-out
+B0543,Li Nair,301,2025-09-29,2025-09-30,Direct,Checked-out
+B0544,Sara Patel,103,2025-09-30,2025-10-03,Online Agency,Checked-out
+B0545,Omar Silva,104,2025-09-30,2025-10-01,Direct,Checked-out
+B0546,Meera Joshi,203,2025-09-30,2025-10-03,Online Agency,Checked-out
+B0547,Sara Patel,101,2025-10-01,2025-10-06,Direct,Checked-out
+B0548,Li Shah,302,2025-10-01,2025-10-02,Phone,Checked-out
+B0549,Ravi Smith,301,2025-10-02,2025-10-05,Direct,Checked-out
+B0550,Neil Silva,201,2025-10-03,2025-10-05,Direct,Cancelled
+B0551,Li Chen,203,2025-10-03,2025-10-08,Direct,Checked-out
+B0552,Tom Joshi,302,2025-10-03,2025-10-06,Direct,Checked-out
+B0553,Priya Joshi,202,2025-10-04,2025-10-06,Online Agency,Checked-out
+B0554,Karan Silva,102,2025-10-05,2025-10-08,Walk-in,Cancelled
+B0555,Ana Khan,104,2025-10-05,2025-10-06,Walk-in,Checked-out
+B0556,Asha Shah,204,2025-10-05,2025-10-06,Online Agency,Checked-out
+B0557,Priya Rao,301,2025-10-05,2025-10-08,Online Agency,Checked-out
+B0558,Ravi Shah,104,2025-10-06,2025-10-07,Online Agency,Checked-out
+B0559,Tom Rao,201,2025-10-07,2025-10-10,Corporate,Checked-out
+B0560,Li Khan,202,2025-10-07,2025-10-09,Direct,Checked-out
+B0561,Li Patel,302,2025-10-07,2025-10-10,Corporate,Checked-out
+B0562,Zoya Silva,103,2025-10-08,2025-10-11,Online Agency,Checked-out
+B0563,Ravi Smith,104,2025-10-08,2025-10-12,Direct,Checked-out
+B0564,Zoya Khan,203,2025-10-08,2025-10-12,Phone,Checked-out
+B0565,Meera Joshi,202,2025-10-09,2025-10-14,Online Agency,Checked-out
+B0566,Neil Khan,102,2025-10-10,2025-10-11,Online Agency,Checked-out
+B0567,Sara Shah,204,2025-10-10,2025-10-13,Corporate,Checked-out
+B0568,Karan Chen,103,2025-10-12,2025-10-15,Online Agency,Checked-out
+B0569,Sara Smith,201,2025-10-12,2025-10-17,Online Agency,Checked-out
+B0570,Meera Joshi,203,2025-10-12,2025-10-17,Corporate,Checked-out
+B0571,Neil Smith,102,2025-10-13,2025-10-14,Direct,Checked-out
+B0572,Neil Shah,302,2025-10-13,2025-10-14,Online Agency,Checked-out
+B0573,Meera Smith,202,2025-10-14,2025-10-19,Phone,Checked-out
+B0574,Tom Mehta,204,2025-10-14,2025-10-18,Walk-in,Checked-out
+B0575,Sara Silva,301,2025-10-14,2025-10-17,Online Agency,Checked-out
+B0576,Sara Chen,302,2025-10-14,2025-10-16,Direct,Checked-out
+B0577,Ana Smith,101,2025-10-15,2025-10-16,Corporate,Checked-out
+B0578,Omar Patel,302,2025-10-16,2025-10-21,Online Agency,Checked-out
+B0579,Li Patel,203,2025-10-17,2025-10-18,Online Agency,Cancelled
+B0580,Tom Joshi,204,2025-10-18,2025-10-22,Corporate,Checked-out
+B0581,Karan Khan,104,2025-10-19,2025-10-23,Direct,Checked-out
+B0582,Ravi Chen,203,2025-10-19,2025-10-23,Phone,Checked-out
+B0583,Tom Shah,102,2025-10-20,2025-10-23,Online Agency,Checked-out
+B0584,Omar Chen,103,2025-10-20,2025-10-24,Online Agency,Checked-out
+B0585,Sara Smith,201,2025-10-20,2025-10-24,Direct,Checked-out
+B0586,Sara Khan,301,2025-10-20,2025-10-25,Corporate,Checked-out
+B0587,Omar Chen,204,2025-10-22,2025-10-23,Online Agency,Checked-out
+B0588,Meera Nair,302,2025-10-23,2025-10-27,Online Agency,Checked-out
+B0589,Li Mehta,101,2025-10-24,2025-10-28,Phone,Checked-out
+B0590,Sara Khan,203,2025-10-24,2025-10-29,Phone,Checked-out
+B0591,Sara Smith,204,2025-10-24,2025-10-29,Direct,Checked-out
+B0592,Meera Chen,201,2025-10-25,2025-10-29,Direct,Checked-out
+B0593,Meera Mehta,202,2025-10-25,2025-10-28,Direct,Checked-out
+B0594,Ana Joshi,102,2025-10-26,2025-10-31,Online Agency,Checked-out
+B0595,Li Patel,103,2025-10-26,2025-10-31,Corporate,Checked-out
+B0596,Omar Chen,301,2025-10-26,2025-10-31,Online Agency,Checked-out
+B0597,Ana Joshi,101,2025-10-28,2025-11-01,Corporate,Checked-out
+B0598,Meera Smith,302,2025-10-28,2025-11-01,Online Agency,Checked-out
+B0599,Meera Mehta,201,2025-10-29,2025-11-03,Direct,Checked-out
+B0600,Omar Rao,203,2025-10-29,2025-10-31,Direct,Checked-out
+B0601,Sara Joshi,104,2025-10-30,2025-11-02,Direct,Checked-out
+B0602,Karan Khan,202,2025-10-31,2025-11-05,Direct,Checked-out
+B0603,Omar Khan,204,2025-10-31,2025-11-04,Online Agency,Cancelled
+B0604,Ana Joshi,101,2025-11-02,2025-11-03,Direct,Checked-out
+B0605,Asha Silva,103,2025-11-02,2025-11-03,Phone,Checked-out
+B0606,Ravi Khan,302,2025-11-03,2025-11-06,Phone,Checked-out
+B0607,Priya Rao,102,2025-11-04,2025-11-08,Online Agency,Cancelled
+B0608,Neil Patel,103,2025-11-04,2025-11-06,Online Agency,Cancelled
+B0609,Omar Mehta,101,2025-11-05,2025-11-09,Direct,Checked-out
+B0610,Tom Joshi,104,2025-11-05,2025-11-06,Online Agency,Checked-out
+B0611,Ravi Chen,104,2025-11-07,2025-11-08,Online Agency,Checked-out
+B0612,Li Joshi,202,2025-11-07,2025-11-08,Online Agency,Checked-out
+B0613,Asha Mehta,302,2025-11-07,2025-11-11,Online Agency,Checked-out
+B0614,Priya Shah,104,2025-11-08,2025-11-12,Corporate,Checked-out
+B0615,Neil Mehta,301,2025-11-08,2025-11-12,Online Agency,Checked-out
+B0616,Asha Shah,203,2025-11-09,2025-11-12,Phone,Checked-out
+B0617,Asha Patel,102,2025-11-10,2025-11-15,Online Agency,Cancelled
+B0618,Tom Silva,201,2025-11-10,2025-11-14,Online Agency,Checked-out
+B0619,Ravi Khan,101,2025-11-11,2025-11-16,Online Agency,Checked-out
+B0620,Karan Khan,202,2025-11-11,2025-11-15,Direct,Checked-out
+B0621,Omar Rao,204,2025-11-13,2025-11-17,Corporate,Checked-out
+B0622,Ravi Silva,302,2025-11-13,2025-11-17,Corporate,Checked-out
+B0623,Asha Nair,103,2025-11-14,2025-11-15,Online Agency,Checked-out
+B0624,Tom Nair,201,2025-11-14,2025-11-16,Direct,Checked-out
+B0625,Priya Chen,104,2025-11-15,2025-11-19,Online Agency,Checked-out
+B0626,Karan Khan,202,2025-11-15,2025-11-16,Corporate,Checked-out
+B0627,Neil Chen,202,2025-11-16,2025-11-20,Online Agency,Checked-out
+B0628,Tom Silva,103,2025-11-17,2025-11-20,Walk-in,Cancelled
+B0629,Sara Joshi,201,2025-11-17,2025-11-20,Online Agency,Checked-out
+B0630,Ana Khan,203,2025-11-17,2025-11-20,Online Agency,Checked-out
+B0631,Tom Silva,301,2025-11-17,2025-11-20,Online Agency,Checked-out
+B0632,Omar Joshi,101,2025-11-18,2025-11-20,Direct,Checked-out
+B0633,Omar Silva,101,2025-11-20,2025-11-25,Phone,Checked-out
+B0634,Ana Nair,103,2025-11-20,2025-11-21,Direct,Checked-out
+B0635,Zoya Shah,104,2025-11-20,2025-11-23,Direct,Checked-out
+B0636,Zoya Smith,202,2025-11-20,2025-11-21,Walk-in,Checked-out
+B0637,Asha Chen,102,2025-11-21,2025-11-26,Walk-in,Checked-out
+B0638,Tom Smith,203,2025-11-22,2025-11-25,Direct,Checked-out
+B0639,Ravi Silva,101,2025-11-25,2025-11-26,Corporate,Checked-out
+B0640,Zoya Khan,103,2025-11-25,2025-11-29,Direct,Checked-out
+B0641,Neil Mehta,203,2025-11-25,2025-11-28,Direct,Checked-out
+B0642,Ravi Chen,101,2025-11-26,2025-12-01,Online Agency,Checked-out
+B0643,Sara Nair,104,2025-11-26,2025-12-01,Direct,Checked-out
+B0644,Sara Shah,204,2025-11-26,2025-11-27,Online Agency,Checked-out
+B0645,Sara Joshi,201,2025-11-28,2025-12-02,Direct,Checked-out
+B0646,Ana Joshi,301,2025-11-28,2025-12-01,Walk-in,Checked-out
+B0647,Neil Nair,302,2025-11-30,2025-12-01,Direct,Checked-out
+B0648,Omar Joshi,101,2025-12-01,2025-12-06,Online Agency,Checked-out
+B0649,Li Chen,103,2025-12-01,2025-12-02,Online Agency,Cancelled
+B0650,Asha Khan,202,2025-12-01,2025-12-06,Online Agency,Checked-out
+B0651,Li Shah,203,2025-12-01,2025-12-03,Online Agency,Checked-out
+B0652,Li Patel,204,2025-12-01,2025-12-04,Direct,Checked-out
+B0653,Sara Joshi,302,2025-12-01,2025-12-03,Walk-in,Cancelled
+B0654,Tom Smith,103,2025-12-02,2025-12-04,Walk-in,Cancelled
+B0655,Meera Smith,201,2025-12-02,2025-12-04,Online Agency,Checked-out
+B0656,Neil Shah,102,2025-12-03,2025-12-04,Walk-in,Checked-out
+B0657,Sara Patel,204,2025-12-04,2025-12-08,Direct,Checked-out
+B0658,Omar Rao,301,2025-12-04,2025-12-06,Online Agency,Checked-out
+B0659,Ravi Patel,201,2025-12-05,2025-12-06,Online Agency,Checked-out
+B0660,Zoya Khan,203,2025-12-05,2025-12-10,Phone,Checked-out
+B0661,Sara Khan,302,2025-12-05,2025-12-09,Online Agency,Checked-out
+B0662,Omar Nair,102,2025-12-06,2025-12-07,Online Agency,Checked-out
+B0663,Ana Shah,201,2025-12-06,2025-12-11,Walk-in,Checked-out
+B0664,Ana Chen,301,2025-12-06,2025-12-11,Walk-in,Checked-out
+B0665,Zoya Patel,104,2025-12-07,2025-12-09,Direct,Checked-out
+B0666,Ravi Rao,103,2025-12-08,2025-12-13,Direct,Checked-out
+B0667,Tom Patel,202,2025-12-08,2025-12-09,Online Agency,Checked-out
+B0668,Tom Chen,204,2025-12-08,2025-12-11,Phone,Checked-out
+B0669,Sara Smith,102,2025-12-09,2025-12-12,Online Agency,Checked-out
+B0670,Priya Chen,202,2025-12-09,2025-12-13,Walk-in,Checked-out
+B0671,Omar Chen,101,2025-12-10,2025-12-15,Direct,Checked-out
+B0672,Ana Mehta,104,2025-12-11,2025-12-16,Phone,Checked-out
+B0673,Li Nair,201,2025-12-11,2025-12-16,Corporate,Checked-out
+B0674,Asha Shah,203,2025-12-11,2025-12-14,Online Agency,Checked-out
+B0675,Karan Khan,301,2025-12-11,2025-12-12,Online Agency,Checked-out
+B0676,Ravi Rao,302,2025-12-11,2025-12-16,Online Agency,Checked-out
+B0677,Meera Chen,202,2025-12-13,2025-12-18,Phone,Checked-out
+B0678,Meera Khan,204,2025-12-13,2025-12-16,Corporate,Checked-out
+B0679,Asha Mehta,301,2025-12-13,2025-12-14,Online Agency,Checked-out
+B0680,Tom Silva,102,2025-12-14,2025-12-17,Direct,Cancelled
+B0681,Asha Khan,103,2025-12-15,2025-12-16,Corporate,Checked-out
+B0682,Omar Nair,203,2025-12-15,2025-12-19,Walk-in,Checked-out
+B0683,Tom Khan,101,2025-12-16,2025-12-19,Online Agency,Checked-out
+B0684,Asha Silva,201,2025-12-16,2025-12-18,Online Agency,Checked-out
+B0685,Sara Nair,204,2025-12-16,2025-12-21,Phone,Checked-out
+B0686,Zoya Shah,301,2025-12-17,2025-12-18,Online Agency,Checked-out
+B0687,Ana Mehta,102,2025-12-18,2025-12-23,Online Agency,Checked-out
+B0688,Ana Khan,103,2025-12-18,2025-12-22,Online Agency,Checked-out
+B0689,Meera Patel,104,2025-12-18,2025-12-20,Walk-in,Checked-out
+B0690,Ravi Nair,302,2025-12-18,2025-12-22,Phone,Checked-out
+B0691,Li Shah,101,2025-12-20,2025-12-23,Online Agency,Checked-out
+B0692,Omar Silva,201,2025-12-20,2025-12-21,Online Agency,Checked-out
+B0693,Zoya Nair,202,2025-12-20,2025-12-25,Walk-in,Checked-out
+B0694,Tom Chen,301,2025-12-20,2025-12-22,Walk-in,Checked-out
+B0695,Meera Joshi,104,2025-12-21,2025-12-25,Walk-in,Checked-out
+B0696,Tom Shah,203,2025-12-21,2025-12-24,Online Agency,Checked-out
+B0697,Omar Silva,204,2025-12-21,2025-12-22,Phone,Cancelled
+B0698,Omar Khan,201,2025-12-22,2025-12-27,Direct,Cancelled
+B0699,Tom Chen,301,2025-12-22,2025-12-25,Online Agency,Checked-out
+B0700,Ravi Silva,101,2025-12-23,2025-12-27,Phone,Checked-out
+B0701,Ravi Rao,102,2025-12-24,2025-12-28,Phone,Checked-out
+B0702,Sara Mehta,103,2025-12-24,2025-12-28,Online Agency,Checked-out
+B0703,Ravi Mehta,302,2025-12-24,2025-12-29,Direct,Checked-out
+B0704,Ana Khan,202,2025-12-25,2025-12-28,Direct,Checked-out
+B0705,Li Smith,104,2025-12-26,2025-12-27,Online Agency,Cancelled
+B0706,Ravi Shah,203,2025-12-26,2025-12-30,Online Agency,Checked-out
+B0707,Ana Khan,301,2025-12-26,2025-12-28,Walk-in,Checked-out
+B0708,Zoya Patel,201,2025-12-27,2026-01-01,Direct,Checked-out
+B0709,Neil Silva,204,2025-12-27,2025-12-30,Corporate,Checked-out
+B0710,Sara Silva,101,2025-12-28,2026-01-01,Direct,Checked-out
+B0711,Li Silva,104,2025-12-28,2025-12-29,Online Agency,Checked-out
+B0712,Ravi Shah,104,2025-12-29,2025-12-31,Online Agency,Checked-out
+B0713,Meera Shah,202,2025-12-29,2026-01-01,Corporate,Checked-out
+B0714,Zoya Nair,102,2025-12-30,2026-01-02,Phone,Checked-out
+B0715,Ravi Silva,103,2025-12-30,2026-01-04,Online Agency,Checked-out
+B0716,Li Patel,203,2025-12-30,2026-01-01,Corporate,Checked-out
+B0717,Ana Patel,301,2025-12-30,2026-01-04,Online Agency,Checked-out
+B0718,Ana Khan,302,2025-12-30,2026-01-01,Online Agency,Checked-out
+B0719,Asha Khan,204,2025-12-31,2026-01-02,Direct,Cancelled
+B0720,Zoya Silva,202,2026-01-01,2026-01-05,Direct,Checked-out
+B0721,Sara Chen,203,2026-01-02,2026-01-07,Online Agency,Checked-out
+B0722,Tom Nair,204,2026-01-02,2026-01-04,Online Agency,Checked-out
+B0723,Zoya Smith,201,2026-01-03,2026-01-08,Phone,Cancelled
+B0724,Karan Smith,302,2026-01-03,2026-01-06,Corporate,Checked-out
+B0725,Karan Smith,102,2026-01-04,2026-01-05,Direct,Checked-out
+B0726,Ravi Mehta,204,2026-01-04,2026-01-08,Online Agency,Checked-out
+B0727,Ravi Nair,102,2026-01-06,2026-01-08,Online Agency,Checked-out
+B0728,Priya Silva,301,2026-01-06,2026-01-10,Walk-in,Checked-out
+B0729,Sara Silva,101,2026-01-07,2026-01-08,Online Agency,Checked-out
+B0730,Ravi Rao,302,2026-01-07,2026-01-12,Direct,Checked-out
+B0731,Meera Rao,104,2026-01-08,2026-01-12,Online Agency,Checked-out
+B0732,Priya Nair,201,2026-01-09,2026-01-11,Online Agency,Checked-out
+B0733,Neil Joshi,202,2026-01-11,2026-01-15,Direct,Cancelled
+B0734,Li Smith,203,2026-01-11,2026-01-12,Direct,Checked-out
+B0735,Ana Silva,204,2026-01-12,2026-01-16,Direct,Checked-out
+B0736,Ana Silva,102,2026-01-13,2026-01-16,Online Agency,Checked-out
+B0737,Karan Smith,103,2026-01-13,2026-01-16,Online Agency,Checked-out
+B0738,Sara Smith,104,2026-01-13,2026-01-18,Online Agency,Checked-out
+B0739,Omar Silva,301,2026-01-13,2026-01-15,Phone,Checked-out
+B0740,Asha Mehta,302,2026-01-13,2026-01-16,Direct,Checked-out
+B0741,Neil Silva,101,2026-01-14,2026-01-17,Direct,Checked-out
+B0742,Li Chen,201,2026-01-15,2026-01-19,Online Agency,Checked-out
+B0743,Omar Patel,102,2026-01-16,2026-01-21,Direct,Checked-out
+B0744,Sara Chen,204,2026-01-16,2026-01-17,Phone,Checked-out
+B0745,Ana Shah,302,2026-01-16,2026-01-19,Online Agency,Checked-out
+B0746,Asha Khan,301,2026-01-17,2026-01-22,Phone,Cancelled
+B0747,Priya Joshi,203,2026-01-18,2026-01-23,Online Agency,Checked-out
+B0748,Li Patel,101,2026-01-19,2026-01-23,Corporate,Checked-out
+B0749,Ana Smith,201,2026-01-19,2026-01-24,Corporate,Checked-out
+B0750,Ana Rao,103,2026-01-20,2026-01-25,Direct,Checked-out
+B0751,Asha Smith,104,2026-01-20,2026-01-24,Corporate,Checked-out
+B0752,Priya Mehta,202,2026-01-20,2026-01-23,Corporate,Checked-out
+B0753,Ravi Patel,302,2026-01-20,2026-01-24,Online Agency,Checked-out
+B0754,Zoya Chen,102,2026-01-22,2026-01-24,Online Agency,Checked-out
+B0755,Zoya Khan,301,2026-01-22,2026-01-27,Corporate,Checked-out
+B0756,Karan Smith,102,2026-01-24,2026-01-27,Walk-in,Checked-out
+B0757,Omar Nair,202,2026-01-24,2026-01-27,Online Agency,Cancelled
+B0758,Ana Chen,204,2026-01-24,2026-01-28,Online Agency,Checked-out
+B0759,Karan Mehta,104,2026-01-25,2026-01-29,Phone,Checked-out
+B0760,Priya Patel,203,2026-01-25,2026-01-28,Online Agency,Checked-out
+B0761,Zoya Silva,103,2026-01-26,2026-01-30,Online Agency,Checked-out
+B0762,Zoya Khan,201,2026-01-26,2026-01-28,Phone,Checked-out
+B0763,Asha Rao,101,2026-01-27,2026-01-31,Online Agency,Checked-out
+B0764,Ana Smith,302,2026-01-27,2026-01-30,Online Agency,Checked-out
+B0765,Meera Nair,203,2026-01-28,2026-02-01,Online Agency,Checked-out
+B0766,Ravi Nair,301,2026-01-28,2026-02-02,Online Agency,Checked-out
+B0767,Omar Shah,202,2026-01-29,2026-02-03,Online Agency,Checked-out
+B0768,Li Joshi,201,2026-01-30,2026-02-04,Online Agency,Checked-out
+B0769,Sara Mehta,102,2026-01-31,2026-02-03,Online Agency,Checked-out
+B0770,Neil Rao,103,2026-01-31,2026-02-01,Online Agency,Cancelled
+B0771,Tom Silva,204,2026-01-31,2026-02-05,Direct,Checked-out
+B0772,Sara Rao,101,2026-02-01,2026-02-05,Walk-in,Checked-out
+B0773,Li Silva,103,2026-02-01,2026-02-03,Online Agency,Checked-out
+B0774,Tom Mehta,203,2026-02-02,2026-02-04,Phone,Checked-out
+B0775,Neil Silva,103,2026-02-03,2026-02-06,Online Agency,Checked-out
+B0776,Omar Khan,104,2026-02-03,2026-02-07,Direct,Checked-out
+B0777,Omar Patel,301,2026-02-03,2026-02-05,Online Agency,Checked-out
+B0778,Omar Rao,203,2026-02-04,2026-02-05,Online Agency,Checked-out
+B0779,Karan Khan,302,2026-02-05,2026-02-10,Corporate,Checked-out
+B0780,Asha Smith,101,2026-02-06,2026-02-07,Phone,Checked-out
+B0781,Li Khan,103,2026-02-06,2026-02-10,Phone,Checked-out
+B0782,Neil Mehta,203,2026-02-06,2026-02-11,Phone,Checked-out
+B0783,Zoya Silva,204,2026-02-06,2026-02-11,Online Agency,Checked-out
+B0784,Omar Joshi,201,2026-02-07,2026-02-08,Walk-in,Checked-out
+B0785,Asha Silva,201,2026-02-09,2026-02-12,Direct,Checked-out
+B0786,Asha Joshi,101,2026-02-10,2026-02-11,Direct,Checked-out
+B0787,Asha Rao,301,2026-02-10,2026-02-14,Online Agency,Checked-out
+B0788,Karan Chen,101,2026-02-11,2026-02-15,Online Agency,Checked-out
+B0789,Li Khan,204,2026-02-11,2026-02-13,Online Agency,Checked-out
+B0790,Meera Patel,202,2026-02-12,2026-02-14,Online Agency,Cancelled
+B0791,Asha Silva,203,2026-02-12,2026-02-14,Direct,Checked-out
+B0792,Neil Rao,302,2026-02-12,2026-02-13,Online Agency,Cancelled
+B0793,Meera Silva,102,2026-02-13,2026-02-15,Corporate,Checked-out
+B0794,Li Joshi,104,2026-02-13,2026-02-18,Walk-in,Checked-out
+B0795,Meera Shah,103,2026-02-15,2026-02-17,Online Agency,Checked-out
+B0796,Li Khan,301,2026-02-15,2026-02-19,Direct,Checked-out
+B0797,Meera Khan,302,2026-02-15,2026-02-17,Direct,Checked-out
+B0798,Meera Chen,201,2026-02-16,2026-02-21,Walk-in,Cancelled
+B0799,Zoya Shah,101,2026-02-17,2026-02-20,Online Agency,Checked-out
+B0800,Neil Rao,103,2026-02-17,2026-02-21,Walk-in,Checked-out
+B0801,Omar Patel,104,2026-02-18,2026-02-20,Direct,Checked-out
+B0802,Zoya Rao,203,2026-02-18,2026-02-23,Online Agency,Checked-out
+B0803,Meera Mehta,202,2026-02-19,2026-02-20,Online Agency,Cancelled
+B0804,Ravi Smith,102,2026-02-20,2026-02-25,Online Agency,Checked-out
+B0805,Ana Nair,201,2026-02-22,2026-02-27,Direct,Checked-out
+B0806,Omar Joshi,202,2026-02-22,2026-02-27,Online Agency,Checked-out
+B0807,Asha Joshi,301,2026-02-22,2026-02-25,Direct,Checked-out
+B0808,Ravi Patel,104,2026-02-23,2026-02-27,Online Agency,Checked-out
+B0809,Neil Joshi,103,2026-02-24,2026-02-26,Corporate,Checked-out
+B0810,Tom Khan,101,2026-02-25,2026-02-27,Phone,Cancelled
+B0811,Meera Mehta,102,2026-02-25,2026-02-26,Online Agency,Checked-out
+B0812,Ravi Patel,301,2026-02-25,2026-02-26,Online Agency,Checked-out
+B0813,Sara Nair,302,2026-02-25,2026-02-26,Direct,Checked-out
+B0814,Zoya Chen,102,2026-02-26,2026-03-02,Direct,Checked-out
+B0815,Omar Joshi,104,2026-02-27,2026-03-04,Corporate,Checked-out
+B0816,Asha Nair,301,2026-02-28,2026-03-04,Direct,Checked-out
+B0817,Ana Mehta,103,2026-03-01,2026-03-05,Corporate,Checked-out
+B0818,Li Shah,202,2026-03-03,2026-03-07,Walk-in,Checked-out
+B0819,Zoya Joshi,102,2026-03-04,2026-03-06,Online Agency,Checked-out
+B0820,Meera Shah,201,2026-03-04,2026-03-05,Phone,Checked-out
+B0821,Meera Nair,203,2026-03-04,2026-03-05,Corporate,Checked-out
+B0822,Tom Shah,301,2026-03-04,2026-03-05,Walk-in,Checked-out
+B0823,Neil Shah,203,2026-03-05,2026-03-09,Direct,Checked-out
+B0824,Sara Smith,103,2026-03-06,2026-03-08,Direct,Checked-out
+B0825,Zoya Shah,104,2026-03-06,2026-03-08,Online Agency,Checked-out
+B0826,Karan Silva,302,2026-03-06,2026-03-11,Corporate,Cancelled
+B0827,Karan Silva,102,2026-03-08,2026-03-11,Direct,Checked-out
+B0828,Li Silva,202,2026-03-08,2026-03-09,Online Agency,Checked-out
+B0829,Sara Chen,204,2026-03-08,2026-03-10,Direct,Checked-out
+B0830,Karan Khan,301,2026-03-08,2026-03-09,Online Agency,Cancelled
+B0831,Asha Silva,101,2026-03-09,2026-03-12,Online Agency,Cancelled
+B0832,Karan Khan,104,2026-03-09,2026-03-10,Online Agency,Checked-out
+B0833,Priya Khan,203,2026-03-10,2026-03-12,Direct,Checked-out
+B0834,Zoya Nair,202,2026-03-11,2026-03-13,Direct,Checked-out
+B0835,Priya Smith,204,2026-03-11,2026-03-16,Direct,Cancelled
+B0836,Karan Shah,301,2026-03-11,2026-03-15,Direct,Cancelled
+B0837,Priya Silva,103,2026-03-12,2026-03-17,Online Agency,Checked-out
+B0838,Asha Patel,104,2026-03-12,2026-03-14,Online Agency,Checked-out
+B0839,Li Silva,203,2026-03-12,2026-03-16,Corporate,Checked-out
+B0840,Zoya Mehta,101,2026-03-13,2026-03-16,Walk-in,Checked-out
+B0841,Zoya Nair,201,2026-03-13,2026-03-14,Online Agency,Checked-out
+B0842,Priya Silva,202,2026-03-13,2026-03-18,Corporate,Checked-out
+B0843,Li Joshi,102,2026-03-15,2026-03-19,Direct,Checked-out
+B0844,Omar Silva,201,2026-03-16,2026-03-19,Corporate,Checked-out
+B0845,Tom Smith,203,2026-03-16,2026-03-21,Corporate,Checked-out
+B0846,Sara Joshi,302,2026-03-16,2026-03-21,Walk-in,Checked-out
+B0847,Li Chen,101,2026-03-17,2026-03-22,Online Agency,Checked-out
+B0848,Meera Nair,103,2026-03-18,2026-03-23,Corporate,Checked-out
+B0849,Priya Rao,104,2026-03-18,2026-03-19,Online Agency,Checked-out
+B0850,Sara Shah,204,2026-03-18,2026-03-23,Direct,Cancelled
+B0851,Neil Smith,301,2026-03-19,2026-03-21,Online Agency,Cancelled
+B0852,Meera Shah,102,2026-03-21,2026-03-26,Online Agency,Checked-out
+B0853,Ravi Nair,201,2026-03-21,2026-03-23,Direct,Checked-out
+B0854,Ana Silva,104,2026-03-22,2026-03-24,Phone,Checked-out
+B0855,Ana Chen,202,2026-03-22,2026-03-27,Direct,Checked-out
+B0856,Priya Smith,203,2026-03-22,2026-03-26,Online Agency,Checked-out
+B0857,Zoya Patel,302,2026-03-22,2026-03-23,Direct,Checked-out
+B0858,Ravi Rao,101,2026-03-23,2026-03-28,Corporate,Checked-out
+B0859,Li Joshi,201,2026-03-24,2026-03-25,Corporate,Checked-out
+B0860,Neil Smith,204,2026-03-25,2026-03-30,Online Agency,Checked-out
+B0861,Priya Rao,302,2026-03-25,2026-03-30,Corporate,Checked-out
+B0862,Sara Chen,103,2026-03-26,2026-03-29,Direct,Checked-out
+B0863,Neil Nair,104,2026-03-26,2026-03-31,Corporate,Checked-out
+B0864,Karan Khan,301,2026-03-26,2026-03-31,Online Agency,Checked-out
+B0865,Zoya Chen,203,2026-03-27,2026-03-31,Direct,Checked-out
+B0866,Neil Patel,101,2026-03-29,2026-04-02,Phone,Checked-out
+B0867,Ravi Chen,103,2026-03-30,2026-04-01,Walk-in,Checked-out
+B0868,Priya Khan,202,2026-03-31,2026-04-02,Direct,Checked-out
+B0869,Asha Silva,301,2026-03-31,2026-04-02,Phone,Cancelled
+B0870,Omar Patel,102,2026-04-01,2026-04-06,Online Agency,Checked-out
+B0871,Asha Mehta,302,2026-04-01,2026-04-03,Direct,Cancelled
+B0872,Ravi Smith,104,2026-04-02,2026-04-05,Direct,Checked-out
+B0873,Karan Joshi,202,2026-04-02,2026-04-06,Direct,Checked-out
+B0874,Ana Shah,204,2026-04-02,2026-04-04,Corporate,Checked-out
+B0875,Ana Smith,301,2026-04-02,2026-04-03,Online Agency,Checked-out
+B0876,Zoya Silva,103,2026-04-03,2026-04-07,Corporate,Checked-out
+B0877,Omar Shah,301,2026-04-03,2026-04-05,Walk-in,Checked-out
+B0878,Ana Rao,101,2026-04-04,2026-04-07,Online Agency,Checked-out
+B0879,Ana Joshi,203,2026-04-04,2026-04-08,Online Agency,Checked-out
+B0880,Karan Khan,201,2026-04-05,2026-04-06,Walk-in,Checked-out
+B0881,Tom Rao,104,2026-04-06,2026-04-09,Phone,Checked-out
+B0882,Ravi Shah,204,2026-04-06,2026-04-10,Corporate,Checked-out
+B0883,Priya Khan,201,2026-04-07,2026-04-10,Direct,Checked-out
+B0884,Karan Patel,202,2026-04-07,2026-04-10,Walk-in,Checked-out
+B0885,Ana Smith,301,2026-04-07,2026-04-12,Corporate,Checked-out
+B0886,Ravi Patel,302,2026-04-07,2026-04-09,Direct,Checked-out
+B0887,Ravi Smith,102,2026-04-08,2026-04-11,Direct,Checked-out
+B0888,Neil Shah,203,2026-04-08,2026-04-11,Corporate,Checked-out
+B0889,Omar Nair,101,2026-04-09,2026-04-11,Phone,Cancelled
+B0890,Ana Shah,103,2026-04-09,2026-04-12,Walk-in,Checked-out
+B0891,Ana Silva,104,2026-04-09,2026-04-11,Walk-in,Checked-out
+B0892,Omar Smith,201,2026-04-11,2026-04-14,Corporate,Cancelled
+B0893,Zoya Nair,302,2026-04-11,2026-04-16,Online Agency,Checked-out
+B0894,Priya Nair,202,2026-04-12,2026-04-15,Direct,Checked-out
+B0895,Ravi Mehta,204,2026-04-12,2026-04-13,Direct,Checked-out
+B0896,Priya Rao,104,2026-04-13,2026-04-15,Phone,Checked-out
+B0897,Asha Smith,102,2026-04-14,2026-04-19,Online Agency,Checked-out
+B0898,Zoya Joshi,203,2026-04-14,2026-04-17,Online Agency,Checked-out
+B0899,Tom Khan,201,2026-04-15,2026-04-20,Corporate,Checked-out
+B0900,Priya Chen,204,2026-04-15,2026-04-17,Direct,Checked-out
+B0901,Tom Silva,103,2026-04-16,2026-04-17,Online Agency,Checked-out
+B0902,Karan Smith,104,2026-04-16,2026-04-17,Corporate,Checked-out
+B0903,Ana Smith,101,2026-04-17,2026-04-21,Online Agency,Checked-out
+B0904,Sara Joshi,202,2026-04-17,2026-04-18,Online Agency,Checked-out
+B0905,Priya Joshi,203,2026-04-17,2026-04-21,Online Agency,Checked-out
+B0906,Meera Shah,204,2026-04-19,2026-04-20,Online Agency,Checked-out
+B0907,Li Nair,103,2026-04-20,2026-04-21,Online Agency,Checked-out
+B0908,Omar Smith,204,2026-04-20,2026-04-24,Direct,Checked-out
+B0909,Neil Chen,301,2026-04-20,2026-04-22,Corporate,Checked-out
+B0910,Zoya Chen,102,2026-04-21,2026-04-23,Phone,Checked-out
+B0911,Omar Patel,202,2026-04-21,2026-04-24,Online Agency,Checked-out
+B0912,Neil Khan,302,2026-04-21,2026-04-22,Direct,Checked-out
+B0913,Neil Smith,101,2026-04-22,2026-04-25,Phone,Checked-out
+B0914,Li Rao,104,2026-04-22,2026-04-26,Phone,Checked-out
+B0915,Meera Rao,203,2026-04-22,2026-04-26,Walk-in,Checked-out
+B0916,Li Khan,301,2026-04-22,2026-04-27,Online Agency,Checked-out
+B0917,Zoya Nair,103,2026-04-24,2026-04-28,Phone,Checked-out
+B0918,Neil Mehta,201,2026-04-24,2026-04-26,Walk-in,Checked-out
+B0919,Omar Patel,102,2026-04-25,2026-04-27,Walk-in,Cancelled
+B0920,Sara Smith,204,2026-04-25,2026-04-26,Phone,Checked-out
+B0921,Ana Shah,302,2026-04-25,2026-04-26,Corporate,Checked-out
+B0922,Ana Patel,201,2026-04-26,2026-04-27,Phone,Checked-out
+B0923,Li Smith,202,2026-04-26,2026-04-28,Corporate,Checked-out
+B0924,Karan Smith,101,2026-04-27,2026-04-30,Direct,Checked-out
+B0925,Priya Nair,102,2026-04-28,2026-04-30,Online Agency,Checked-out
+B0926,Ravi Shah,103,2026-04-28,2026-04-29,Online Agency,Checked-out
+B0927,Zoya Nair,104,2026-04-29,2026-04-30,Phone,Checked-out
+B0928,Ravi Rao,301,2026-04-29,2026-04-30,Online Agency,Checked-out
+B0929,Zoya Khan,203,2026-04-30,2026-05-03,Online Agency,Checked-out
+B0930,Li Chen,103,2026-05-01,2026-05-04,Walk-in,Checked-out
+B0931,Ana Rao,201,2026-05-01,2026-05-04,Corporate,Checked-out
+B0932,Karan Mehta,301,2026-05-01,2026-05-02,Online Agency,Checked-out
+B0933,Priya Silva,104,2026-05-02,2026-05-04,Phone,Checked-out
+B0934,Sara Chen,204,2026-05-02,2026-05-04,Online Agency,Checked-out
+B0935,Ana Nair,101,2026-05-03,2026-05-05,Online Agency,Checked-out
+B0936,Ana Smith,203,2026-05-03,2026-05-06,Corporate,Checked-out
+B0937,Omar Smith,301,2026-05-03,2026-05-04,Phone,Checked-out
+B0938,Neil Patel,102,2026-05-04,2026-05-05,Direct,Checked-out
+B0939,Ana Smith,202,2026-05-04,2026-05-07,Direct,Checked-out
+B0940,Tom Rao,301,2026-05-04,2026-05-05,Corporate,Checked-out
+B0941,Ravi Rao,103,2026-05-05,2026-05-09,Online Agency,Checked-out
+B0942,Omar Patel,104,2026-05-05,2026-05-10,Corporate,Checked-out
+B0943,Ana Mehta,201,2026-05-05,2026-05-10,Direct,Checked-out
+B0944,Asha Khan,301,2026-05-05,2026-05-08,Direct,Checked-out
+B0945,Priya Khan,302,2026-05-05,2026-05-07,Direct,Checked-out
+B0946,Neil Mehta,101,2026-05-07,2026-05-08,Online Agency,Checked-out
+B0947,Sara Chen,102,2026-05-07,2026-05-08,Online Agency,Checked-out
+B0948,Sara Nair,202,2026-05-08,2026-05-10,Direct,Checked-out
+B0949,Omar Shah,203,2026-05-08,2026-05-12,Online Agency,Checked-out
+B0950,Asha Nair,101,2026-05-09,2026-05-14,Direct,Checked-out
+B0951,Li Rao,102,2026-05-09,2026-05-11,Online Agency,Checked-out
+B0952,Zoya Silva,302,2026-05-09,2026-05-13,Direct,Checked-out
+B0953,Meera Khan,103,2026-05-10,2026-05-13,Phone,Checked-out
+B0954,Li Smith,201,2026-05-10,2026-05-14,Online Agency,Checked-out
+B0955,Priya Smith,202,2026-05-10,2026-05-14,Direct,Checked-out
+B0956,Ravi Shah,204,2026-05-10,2026-05-11,Online Agency,Checked-out
+B0957,Neil Mehta,301,2026-05-10,2026-05-12,Online Agency,Checked-out
+B0958,Ravi Smith,102,2026-05-12,2026-05-14,Online Agency,Checked-out
+B0959,Li Shah,104,2026-05-12,2026-05-17,Corporate,Cancelled
+B0960,Asha Mehta,204,2026-05-12,2026-05-14,Online Agency,Checked-out
+B0961,Ana Patel,203,2026-05-13,2026-05-18,Online Agency,Cancelled
+B0962,Karan Patel,301,2026-05-13,2026-05-14,Direct,Checked-out
+B0963,Meera Mehta,302,2026-05-14,2026-05-18,Direct,Cancelled
+B0964,Ravi Patel,101,2026-05-15,2026-05-17,Walk-in,Checked-out
+B0965,Omar Khan,103,2026-05-15,2026-05-17,Online Agency,Checked-out
+B0966,Zoya Chen,102,2026-05-16,2026-05-20,Online Agency,Checked-out
+B0967,Zoya Patel,201,2026-05-16,2026-05-17,Online Agency,Checked-out
+B0968,Neil Chen,202,2026-05-16,2026-05-20,Corporate,Cancelled
+B0969,Tom Nair,204,2026-05-16,2026-05-21,Online Agency,Checked-out
+B0970,Ana Rao,201,2026-05-17,2026-05-21,Online Agency,Checked-out
+B0971,Karan Khan,301,2026-05-17,2026-05-19,Walk-in,Checked-out
+B0972,Asha Joshi,103,2026-05-18,2026-05-20,Online Agency,Checked-out
+B0973,Neil Silva,203,2026-05-18,2026-05-20,Direct,Checked-out
+B0974,Meera Mehta,302,2026-05-18,2026-05-20,Direct,Checked-out
+B0975,Asha Rao,101,2026-05-19,2026-05-23,Direct,Checked-out
+B0976,Meera Mehta,104,2026-05-19,2026-05-22,Corporate,Checked-out
+B0977,Karan Rao,103,2026-05-20,2026-05-24,Phone,Checked-out
+B0978,Tom Patel,102,2026-05-21,2026-05-24,Online Agency,Checked-out
+B0979,Neil Smith,201,2026-05-21,2026-05-23,Corporate,Checked-out
+B0980,Asha Khan,202,2026-05-21,2026-05-24,Online Agency,Checked-out
+B0981,Karan Silva,301,2026-05-21,2026-05-25,Phone,Checked-out
+B0982,Karan Chen,302,2026-05-21,2026-05-23,Direct,Cancelled
+B0983,Meera Smith,104,2026-05-22,2026-05-27,Corporate,Checked-out
+B0984,Neil Silva,201,2026-05-23,2026-05-25,Walk-in,Checked-out
+B0985,Tom Patel,101,2026-05-24,2026-05-25,Direct,Checked-out
+B0986,Tom Mehta,102,2026-05-24,2026-05-28,Walk-in,Checked-out
+B0987,Meera Khan,202,2026-05-24,2026-05-25,Corporate,Checked-out
+B0988,Li Khan,203,2026-05-24,2026-05-27,Corporate,Checked-out
+B0989,Karan Shah,101,2026-05-25,2026-05-30,Direct,Checked-out
+B0990,Tom Khan,301,2026-05-25,2026-05-28,Online Agency,Checked-out
+B0991,Karan Shah,201,2026-05-26,2026-05-31,Online Agency,Checked-out
+B0992,Omar Shah,103,2026-05-27,2026-06-01,Online Agency,Checked-out
+B0993,Meera Shah,102,2026-05-28,2026-06-02,Online Agency,Checked-out
+B0994,Karan Nair,204,2026-05-28,2026-05-30,Online Agency,Checked-out
+B0995,Asha Patel,302,2026-05-28,2026-06-01,Direct,Checked-out
+B0996,Meera Smith,104,2026-05-29,2026-05-30,Online Agency,Checked-out
+B0997,Neil Smith,203,2026-05-29,2026-05-30,Direct,Checked-out
+B0998,Omar Silva,301,2026-05-31,2026-06-03,Direct,Checked-out
+B0999,Li Silva,101,2026-06-01,2026-06-06,Online Agency,Checked-out
+B1000,Meera Joshi,104,2026-06-01,2026-06-05,Walk-in,Checked-out
+B1001,Tom Mehta,202,2026-06-01,2026-06-02,Corporate,Checked-out
+B1002,Ravi Nair,203,2026-06-01,2026-06-04,Phone,Checked-out
+B1003,Tom Silva,204,2026-06-01,2026-06-05,Corporate,Checked-out
+B1004,Ana Patel,302,2026-06-01,2026-06-02,Corporate,Checked-out
+B1005,Asha Joshi,102,2026-06-02,2026-06-05,Corporate,Checked-out
+B1006,Ana Silva,103,2026-06-02,2026-06-06,Online Agency,Checked-out
+B1007,Karan Mehta,201,2026-06-02,2026-06-04,Corporate,Checked-out
+B1008,Ravi Patel,202,2026-06-02,2026-06-06,Corporate,Checked-out
+B1009,Meera Chen,302,2026-06-03,2026-06-06,Direct,Checked-out
+B1010,Ana Mehta,102,2026-06-05,2026-06-08,Walk-in,Checked-out
+B1011,Sara Silva,104,2026-06-05,2026-06-06,Online Agency,Checked-out
+B1012,Omar Patel,301,2026-06-05,2026-06-09,Walk-in,Checked-out
+B1013,Tom Nair,201,2026-06-06,2026-06-07,Online Agency,Checked-out
+B1014,Neil Chen,203,2026-06-06,2026-06-08,Online Agency,Cancelled
+B1015,Meera Nair,204,2026-06-06,2026-06-09,Phone,Checked-out
+B1016,Ana Mehta,103,2026-06-08,2026-06-09,Walk-in,Checked-out
+B1017,Asha Smith,104,2026-06-09,2026-06-14,Online Agency,Checked-out
+B1018,Ana Patel,201,2026-06-09,2026-06-13,Online Agency,Checked-out
+B1019,Karan Khan,203,2026-06-09,2026-06-11,Direct,Checked-out
+B1020,Zoya Rao,302,2026-06-09,2026-06-13,Direct,Checked-out
+B1021,Ravi Patel,102,2026-06-10,2026-06-13,Direct,Checked-out
+B1022,Ravi Nair,202,2026-06-10,2026-06-11,Corporate,Checked-out
+B1023,Ana Nair,301,2026-06-10,2026-06-11,Corporate,Checked-out
+B1024,Ravi Khan,101,2026-06-11,2026-06-16,Corporate,Cancelled
+B1025,Tom Mehta,103,2026-06-11,2026-06-14,Online Agency,Checked-out
+B1026,Neil Mehta,204,2026-06-11,2026-06-12,Online Agency,Checked-out
+B1027,Omar Rao,301,2026-06-11,2026-06-13,Online Agency,Checked-out
+B1028,Priya Silva,204,2026-06-12,2026-06-17,Direct,Checked-out
+B1029,Karan Smith,202,2026-06-13,2026-06-14,Online Agency,Checked-out
+B1030,Zoya Shah,203,2026-06-13,2026-06-18,Phone,Checked-out
+B1031,Omar Shah,201,2026-06-14,2026-06-16,Walk-in,Cancelled
+B1032,Tom Shah,202,2026-06-14,2026-06-17,Walk-in,Checked-out
+B1033,Omar Khan,301,2026-06-14,2026-06-18,Direct,Cancelled
+B1034,Priya Rao,102,2026-06-15,2026-06-20,Online Agency,Checked-out
+B1035,Meera Nair,103,2026-06-15,2026-06-18,Online Agency,Checked-out
+B1036,Priya Shah,302,2026-06-15,2026-06-16,Direct,Checked-out
+B1037,Zoya Smith,104,2026-06-16,2026-06-17,Direct,Checked-out
+B1038,Priya Smith,201,2026-06-17,2026-06-20,Online Agency,Checked-out
+B1039,Ravi Mehta,101,2026-06-18,2026-06-19,Direct,Checked-out
+B1040,Ravi Patel,104,2026-06-18,2026-06-22,Online Agency,Checked-out
+B1041,Li Nair,202,2026-06-18,2026-06-21,Corporate,Checked-out
+B1042,Priya Rao,101,2026-06-19,2026-06-24,Direct,Checked-out
+B1043,Omar Nair,103,2026-06-19,2026-06-21,Online Agency,Checked-out
+B1044,Asha Chen,203,2026-06-19,2026-06-20,Direct,Checked-out
+B1045,Li Smith,204,2026-06-19,2026-06-20,Online Agency,Checked-out
+B1046,Sara Silva,301,2026-06-19,2026-06-24,Online Agency,Checked-out
+B1047,Karan Joshi,201,2026-06-20,2026-06-23,Corporate,Checked-out
+B1048,Asha Chen,204,2026-06-20,2026-06-21,Online Agency,Checked-out
+B1049,Meera Smith,302,2026-06-20,2026-06-22,Online Agency,Cancelled
+B1050,Zoya Rao,202,2026-06-21,2026-06-24,Online Agency,Checked-out
+B1051,Ana Nair,203,2026-06-21,2026-06-24,Online Agency,Checked-out
+B1052,Omar Khan,102,2026-06-22,2026-06-27,Corporate,Checked-out
+B1053,Omar Joshi,103,2026-06-24,2026-06-28,Direct,Checked-out
+B1054,Ravi Chen,302,2026-06-24,2026-06-28,Phone,Checked-out
+B1055,Tom Mehta,104,2026-06-25,2026-06-30,Online Agency,Checked-out
+B1056,Neil Smith,201,2026-06-25,2026-06-30,Walk-in,Checked-out
+B1057,Karan Mehta,203,2026-06-25,2026-06-28,Walk-in,Cancelled
+B1058,Li Chen,202,2026-06-26,2026-06-27,Corporate,Checked-out
+B1059,Tom Khan,101,2026-06-27,2026-06-30,Online Agency,Checked-out
+B1060,Omar Shah,102,2026-06-27,2026-06-28,Corporate,Checked-out
+B1061,Sara Patel,202,2026-06-27,2026-07-01,Direct,Checked-out
+B1062,Sara Patel,301,2026-06-27,2026-06-30,Online Agency,Checked-out
+B1063,Priya Rao,204,2026-06-28,2026-07-03,Direct,Checked-out
+B1064,Li Chen,103,2026-06-29,2026-07-01,Corporate,Checked-out
+B1065,Ravi Smith,302,2026-06-29,2026-07-02,Online Agency,Checked-out
+B1066,Ravi Silva,203,2026-06-30,2026-07-02,Direct,Checked-out
+B1067,Priya Smith,301,2026-06-30,2026-07-05,Walk-in,Checked-out
+B1068,Meera Shah,101,2026-07-01,2026-07-03,Corporate,Checked-out
+B1069,Tom Chen,202,2026-07-01,2026-07-03,Corporate,Checked-out
+B1070,Priya Mehta,102,2026-07-02,2026-07-03,Online Agency,Checked-out
+B1071,Meera Shah,103,2026-07-02,2026-07-06,Online Agency,Checked-out
+B1072,Priya Chen,201,2026-07-02,2026-07-06,Online Agency,Checked-out
+B1073,Neil Joshi,302,2026-07-02,2026-07-07,Online Agency,Checked-out
+B1074,Priya Chen,101,2026-07-03,2026-07-06,Walk-in,Checked-out
+B1075,Sara Patel,104,2026-07-03,2026-07-05,Corporate,Checked-out
+B1076,Sara Patel,203,2026-07-04,2026-07-05,Walk-in,Cancelled
+B1077,Ravi Khan,102,2026-07-05,2026-07-07,Online Agency,Checked-out
+B1078,Li Mehta,104,2026-07-05,2026-07-07,Direct,Checked-out
+B1079,Tom Nair,202,2026-07-05,2026-07-08,Phone,Checked-out
+B1080,Priya Patel,203,2026-07-05,2026-07-10,Online Agency,Checked-out
+B1081,Li Khan,204,2026-07-05,2026-07-10,Phone,Checked-out
+B1082,Li Nair,101,2026-07-06,2026-07-09,Corporate,Checked-out
+B1083,Neil Chen,102,2026-07-07,2026-07-11,Online Agency,Cancelled
+B1084,Li Joshi,104,2026-07-07,2026-07-08,Online Agency,Checked-out
+B1085,Sara Khan,301,2026-07-07,2026-07-10,Phone,Checked-out
+B1086,Ana Rao,302,2026-07-07,2026-07-09,Phone,Checked-out
+B1087,Li Rao,103,2026-07-08,2026-07-10,Online Agency,Checked-out
+B1088,Asha Patel,104,2026-07-08,2026-07-09,Phone,Checked-out
+B1089,Sara Shah,201,2026-07-09,2026-07-12,Online Agency,Checked-out
+B1090,Neil Joshi,101,2026-07-10,2026-07-15,Online Agency,Cancelled
+B1091,Li Nair,103,2026-07-10,2026-07-15,Walk-in,Checked-out
+B1092,Omar Shah,202,2026-07-10,2026-07-11,Corporate,Checked-out
+B1093,Ana Khan,203,2026-07-10,2026-07-11,Walk-in,Checked-out
+B1094,Omar Shah,204,2026-07-10,2026-07-15,Walk-in,Checked-out
+B1095,Zoya Mehta,301,2026-07-10,2026-07-13,Phone,Checked-out
+B1096,Priya Shah,302,2026-07-10,2026-07-13,Phone,Checked-out
+B1097,Omar Mehta,104,2026-07-11,2026-07-15,Online Agency,Checked-out
+B1098,Zoya Rao,201,2026-07-12,2026-07-14,Phone,Checked-out
+B1099,Meera Joshi,202,2026-07-12,2026-07-16,Corporate,Checked-out
+B1100,Zoya Chen,102,2026-07-13,2026-07-14,Online Agency,Cancelled
+B1101,Meera Rao,203,2026-07-13,2026-07-15,Direct,Checked-out
+B1102,Meera Silva,302,2026-07-13,2026-07-15,Direct,Checked-out
+B1103,Tom Mehta,301,2026-07-14,2026-07-16,Online Agency,Checked-out
+B1104,Neil Nair,103,2026-07-15,2026-07-18,Walk-in,Checked-out
+B1105,Tom Nair,104,2026-07-15,2026-07-16,Phone,Checked-out
+B1106,Meera Chen,204,2026-07-15,2026-07-19,Direct,Cancelled
+B1107,Ana Joshi,101,2026-07-16,2026-07-18,Walk-in,Checked-out
+B1108,Neil Shah,102,2026-07-16,2026-07-20,Direct,Checked-out
+B1109,Neil Joshi,201,2026-07-16,2026-07-19,Walk-in,Checked-out
+B1110,Sara Joshi,301,2026-07-16,2026-07-17,Corporate,Checked-out
+B1111,Sara Rao,302,2026-07-16,2026-07-20,Direct,Checked-out
+B1112,Li Joshi,104,2026-07-17,2026-07-19,Corporate,Checked-out
+B1113,Neil Smith,202,2026-07-17,2026-07-21,Corporate,Checked-out
+B1114,Ana Khan,203,2026-07-17,2026-07-19,Walk-in,Checked-out
+B1115,Sara Rao,301,2026-07-17,2026-07-19,Direct,Checked-out
+B1116,Ravi Khan,103,2026-07-18,2026-07-22,Corporate,Checked-out
+B1117,Priya Nair,104,2026-07-19,2026-07-20,Online Agency,Checked-out
+B1118,Li Nair,204,2026-07-19,2026-07-22,Online Agency,Checked-out
+B1119,Omar Khan,104,2026-07-20,2026-07-24,Direct,Checked-out
+B1120,Neil Chen,302,2026-07-20,2026-07-22,Online Agency,Checked-out
+B1121,Omar Nair,101,2026-07-21,2026-07-26,Walk-in,Cancelled
+B1122,Li Joshi,102,2026-07-21,2026-07-26,Corporate,Checked-out
+B1123,Li Khan,203,2026-07-21,2026-07-22,Walk-in,Checked-out
+B1124,Priya Silva,301,2026-07-21,2026-07-26,Online Agency,Checked-out
+B1125,Omar Mehta,202,2026-07-22,2026-07-23,Online Agency,Checked-out
+B1126,Ravi Chen,103,2026-07-23,2026-07-24,Online Agency,Checked-out
+B1127,Priya Shah,201,2026-07-23,2026-07-24,Direct,Checked-out
+B1128,Omar Chen,204,2026-07-23,2026-07-28,Online Agency,Checked-out
+B1129,Meera Khan,302,2026-07-23,2026-07-27,Online Agency,Checked-out
+B1130,Zoya Smith,103,2026-07-24,2026-07-26,Phone,Checked-out
+B1131,Omar Nair,201,2026-07-24,2026-07-25,Corporate,Cancelled
+B1132,Sara Shah,202,2026-07-24,2026-07-29,Online Agency,Checked-out
+B1133,Asha Shah,203,2026-07-24,2026-07-27,Walk-in,Checked-out
+B1134,Ravi Rao,201,2026-07-25,2026-07-29,Corporate,Checked-out
+B1135,Asha Shah,102,2026-07-26,2026-07-28,Corporate,Checked-out
+B1136,Ravi Shah,104,2026-07-26,2026-07-29,Direct,Checked-out
+B1137,Omar Shah,203,2026-07-27,2026-07-31,Online Agency,Checked-out
+B1138,Tom Chen,101,2026-07-28,2026-07-31,Online Agency,Checked-out
+B1139,Karan Khan,103,2026-07-28,2026-08-01,Direct,Checked-out
+B1140,Neil Mehta,301,2026-07-28,2026-07-29,Walk-in,Checked-out
+B1141,Li Khan,302,2026-07-28,2026-08-01,Online Agency,Checked-out
+B1142,Karan Smith,102,2026-07-30,2026-08-01,Corporate,Checked-out
+B1143,Sara Joshi,202,2026-07-30,2026-07-31,Online Agency,Checked-out
+B1144,Meera Chen,301,2026-07-30,2026-08-03,Direct,Checked-out
+B1145,Meera Smith,101,2026-07-31,2026-08-04,Phone,Checked-out
+B1146,Ravi Shah,104,2026-07-31,2026-08-02,Walk-in,Checked-out
+B1147,Priya Chen,201,2026-07-31,2026-08-04,Direct,Checked-out
+B1148,Sara Shah,203,2026-07-31,2026-08-04,Online Agency,Checked-out
+B1149,Zoya Nair,204,2026-07-31,2026-08-02,Online Agency,Checked-out
+B1150,Neil Rao,103,2026-08-01,2026-08-06,Online Agency,Checked-out
+B1151,Sara Shah,202,2026-08-01,2026-08-03,Corporate,Checked-out
+B1152,Zoya Khan,302,2026-08-02,2026-08-06,Walk-in,Checked-out
+B1153,Li Rao,102,2026-08-03,2026-08-04,Online Agency,Checked-out
+B1154,Omar Patel,104,2026-08-03,2026-08-07,Online Agency,Checked-out
+B1155,Zoya Silva,301,2026-08-03,2026-08-07,Phone,Checked-out
+B1156,Meera Joshi,102,2026-08-04,2026-08-09,Online Agency,Checked-out
+B1157,Ana Smith,202,2026-08-04,2026-08-09,Corporate,Checked-out
+B1158,Meera Nair,204,2026-08-04,2026-08-06,Direct,Checked-out
+B1159,Li Patel,101,2026-08-05,2026-08-08,Online Agency,Checked-out
+B1160,Neil Rao,203,2026-08-05,2026-08-06,Online Agency,Checked-out
+B1161,Tom Smith,201,2026-08-06,2026-08-11,Direct,Checked-out
+B1162,Ravi Mehta,103,2026-08-07,2026-08-12,Phone,Checked-out
+B1163,Tom Smith,104,2026-08-07,2026-08-08,Online Agency,Checked-out
+B1164,Ravi Smith,204,2026-08-07,2026-08-08,Online Agency,Checked-out
+B1165,Meera Nair,301,2026-08-07,2026-08-09,Direct,Checked-out
+B1166,Priya Chen,203,2026-08-08,2026-08-09,Direct,Checked-out
+B1167,Asha Smith,302,2026-08-08,2026-08-11,Corporate,Cancelled
+B1168,Sara Nair,101,2026-08-09,2026-08-12,Corporate,Checked-out
+B1169,Asha Mehta,104,2026-08-09,2026-08-10,Corporate,Checked-out
+B1170,Meera Khan,301,2026-08-09,2026-08-11,Direct,Checked-out
+B1171,Neil Rao,204,2026-08-10,2026-08-15,Online Agency,Checked-out
+B1172,Ana Patel,102,2026-08-11,2026-08-16,Online Agency,Checked-out
+B1173,Zoya Joshi,202,2026-08-11,2026-08-13,Direct,Checked-out
+B1174,Sara Khan,203,2026-08-11,2026-08-15,Online Agency,Checked-out
+B1175,Li Smith,101,2026-08-12,2026-08-17,Direct,Checked-out
+B1176,Ana Rao,104,2026-08-12,2026-08-15,Online Agency,Checked-out
+B1177,Priya Nair,201,2026-08-12,2026-08-16,Online Agency,Checked-out
+B1178,Meera Khan,103,2026-08-13,2026-08-16,Direct,Checked-out
+B1179,Neil Smith,302,2026-08-13,2026-08-15,Direct,Checked-out
+B1180,Omar Mehta,202,2026-08-14,2026-08-19,Online Agency,Checked-out
+B1181,Ravi Rao,301,2026-08-14,2026-08-19,Online Agency,Checked-out
+B1182,Asha Chen,203,2026-08-15,2026-08-19,Online Agency,Checked-out
+B1183,Sara Khan,302,2026-08-15,2026-08-17,Online Agency,Checked-out
+B1184,Ana Silva,102,2026-08-16,2026-08-21,Direct,Checked-out
+B1185,Omar Mehta,103,2026-08-16,2026-08-18,Phone,Checked-out
+B1186,Asha Rao,204,2026-08-16,2026-08-18,Online Agency,Checked-out
+B1187,Omar Rao,104,2026-08-17,2026-08-20,Online Agency,Checked-out
+B1188,Tom Joshi,201,2026-08-17,2026-08-22,Online Agency,Checked-out
+B1189,Zoya Mehta,302,2026-08-17,2026-08-18,Direct,Checked-out
+B1190,Li Mehta,101,2026-08-19,2026-08-23,Direct,Checked-out
+B1191,Ravi Patel,204,2026-08-19,2026-08-23,Online Agency,Cancelled
+B1192,Karan Chen,301,2026-08-19,2026-08-22,Direct,Cancelled
+B1193,Tom Joshi,302,2026-08-19,2026-08-23,Phone,Checked-out
+B1194,Ravi Silva,103,2026-08-20,2026-08-24,Direct,Checked-out
+B1195,Meera Shah,104,2026-08-21,2026-08-25,Online Agency,Checked-out
+B1196,Omar Patel,202,2026-08-21,2026-08-26,Online Agency,Checked-out
+B1197,Ravi Mehta,203,2026-08-21,2026-08-25,Phone,Checked-out
+B1198,Tom Rao,102,2026-08-23,2026-08-27,Online Agency,Checked-out
+B1199,Li Khan,201,2026-08-23,2026-08-28,Online Agency,Checked-out
+B1200,Asha Joshi,301,2026-08-23,2026-08-24,Online Agency,Cancelled
+B1201,Neil Mehta,302,2026-08-23,2026-08-28,Direct,Checked-out
+B1202,Ana Khan,101,2026-08-24,2026-08-28,Corporate,Checked-out
+B1203,Sara Chen,204,2026-08-24,2026-08-27,Corporate,Checked-out
+B1204,Li Rao,301,2026-08-24,2026-08-29,Online Agency,Checked-out
+B1205,Ravi Silva,104,2026-08-25,2026-08-26,Walk-in,Checked-out
+B1206,Ana Patel,103,2026-08-26,2026-08-29,Online Agency,Checked-out
+B1207,Tom Patel,202,2026-08-26,2026-08-28,Corporate,Checked-out
+B1208,Meera Shah,203,2026-08-26,2026-08-31,Phone,Checked-out
+B1209,Asha Mehta,102,2026-08-28,2026-09-01,Direct,Checked-out
+B1210,Meera Joshi,104,2026-08-28,2026-09-02,Phone,Checked-in
+B1211,Asha Patel,201,2026-08-28,2026-08-31,Direct,Checked-out
+B1212,Ana Chen,202,2026-08-28,2026-09-01,Online Agency,Checked-out
+B1213,Meera Mehta,302,2026-08-28,2026-08-29,Walk-in,Checked-out
+B1214,Omar Chen,204,2026-08-29,2026-08-31,Online Agency,Checked-out
+B1215,Sara Shah,101,2026-08-30,2026-09-04,Direct,Checked-in
+B1216,Neil Smith,301,2026-08-30,2026-09-02,Online Agency,Checked-in
+B1217,Priya Chen,302,2026-08-30,2026-09-04,Phone,Checked-in
+B1218,Zoya Smith,103,2026-08-31,2026-09-04,Online Agency,Checked-in
+B1219,Tom Rao,202,2026-09-01,2026-09-04,Online Agency,Checked-in
+B1220,Neil Smith,102,2026-09-02,2026-09-06,Online Agency,Confirmed
+B1221,Ana Silva,204,2026-09-02,2026-09-05,Online Agency,Confirmed
+B1222,Omar Chen,201,2026-09-03,2026-09-07,Phone,Confirmed
+B1223,Zoya Chen,203,2026-09-03,2026-09-07,Walk-in,Confirmed
+B1224,Zoya Rao,101,2026-09-05,2026-09-06,Direct,Confirmed
+B1225,Ana Nair,202,2026-09-05,2026-09-08,Online Agency,Confirmed
+B1226,Priya Shah,302,2026-09-05,2026-09-09,Phone,Confirmed
+B1227,Neil Rao,103,2026-09-06,2026-09-10,Online Agency,Confirmed
+B1228,Sara Chen,104,2026-09-06,2026-09-08,Online Agency,Confirmed
+B1229,Tom Chen,204,2026-09-06,2026-09-10,Direct,Confirmed
+B1230,Karan Chen,101,2026-09-08,2026-09-12,Corporate,Confirmed
+B1231,Li Joshi,104,2026-09-08,2026-09-11,Corporate,Cancelled
+B1232,Asha Nair,201,2026-09-08,2026-09-12,Online Agency,Confirmed
+B1233,Neil Shah,301,2026-09-08,2026-09-12,Corporate,Confirmed
+B1234,Meera Patel,302,2026-09-09,2026-09-10,Direct,Confirmed
+B1235,Neil Patel,103,2026-09-11,2026-09-13,Online Agency,Confirmed
+B1236,Li Smith,202,2026-09-11,2026-09-16,Direct,Confirmed
+B1237,Sara Chen,203,2026-09-11,2026-09-15,Phone,Confirmed
+B1238,Ana Rao,204,2026-09-12,2026-09-13,Phone,Confirmed
+B1239,Meera Patel,301,2026-09-12,2026-09-16,Corporate,Confirmed
+B1240,Meera Chen,103,2026-09-13,2026-09-17,Corporate,Cancelled
+B1241,Ana Shah,104,2026-09-13,2026-09-16,Phone,Confirmed
+B1242,Zoya Silva,201,2026-09-13,2026-09-18,Direct,Confirmed
+B1243,Meera Shah,101,2026-09-14,2026-09-16,Online Agency,Confirmed
+B1244,Omar Khan,102,2026-09-14,2026-09-17,Direct,Confirmed
+B1245,Li Joshi,204,2026-09-15,2026-09-20,Corporate,Confirmed
+B1246,Zoya Khan,302,2026-09-16,2026-09-19,Online Agency,Confirmed
+B1247,Sara Khan,102,2026-09-17,2026-09-20,Corporate,Confirmed
+B1248,Tom Silva,104,2026-09-17,2026-09-19,Phone,Confirmed
+B1249,Sara Silva,202,2026-09-17,2026-09-22,Online Agency,Confirmed
+B1250,Omar Khan,203,2026-09-17,2026-09-21,Online Agency,Confirmed
+B1251,Meera Rao,103,2026-09-18,2026-09-22,Phone,Confirmed
+B1252,Karan Smith,301,2026-09-18,2026-09-23,Phone,Confirmed
+B1253,Zoya Rao,101,2026-09-19,2026-09-24,Direct,Confirmed
+B1254,Ana Rao,201,2026-09-19,2026-09-20,Direct,Confirmed
+B1255,Ravi Mehta,201,2026-09-21,2026-09-26,Online Agency,Confirmed
+B1256,Li Chen,102,2026-09-23,2026-09-25,Online Agency,Confirmed
+B1257,Karan Nair,202,2026-09-23,2026-09-25,Online Agency,Confirmed
+B1258,Tom Nair,204,2026-09-23,2026-09-27,Direct,Confirmed
+B1259,Tom Mehta,103,2026-09-24,2026-09-27,Online Agency,Confirmed
+B1260,Asha Mehta,203,2026-09-24,2026-09-25,Online Agency,Confirmed
+B1261,Asha Smith,301,2026-09-24,2026-09-28,Phone,Confirmed
+B1262,Omar Mehta,104,2026-09-25,2026-09-27,Online Agency,Confirmed
+B1263,Asha Khan,302,2026-09-25,2026-09-27,Online Agency,Confirmed
+B1264,Omar Smith,101,2026-09-26,2026-09-30,Online Agency,Confirmed
+B1265,Ana Chen,201,2026-09-26,2026-09-30,Online Agency,Confirmed
+B1266,Ravi Shah,203,2026-09-26,2026-09-29,Online Agency,Confirmed
+B1267,Sara Shah,103,2026-09-27,2026-09-30,Walk-in,Confirmed
+B1268,Karan Joshi,102,2026-09-28,2026-10-02,Corporate,Confirmed
+B1269,Tom Chen,301,2026-09-28,2026-09-29,Phone,Confirmed
+B1270,Zoya Chen,302,2026-09-28,2026-10-03,Direct,Confirmed
+B1271,Tom Silva,104,2026-09-29,2026-10-02,Direct,Confirmed
+B1272,Asha Mehta,202,2026-09-29,2026-10-01,Direct,Confirmed
+B1273,Neil Silva,301,2026-09-29,2026-10-03,Walk-in,Confirmed
+B1274,Meera Shah,201,2026-09-30,2026-10-02,Online Agency,Cancelled
+B1275,Karan Khan,101,2026-10-01,2026-10-06,Corporate,Confirmed
+B1276,Karan Nair,103,2026-10-02,2026-10-04,Direct,Confirmed
+B1277,Tom Chen,102,2026-10-03,2026-10-06,Corporate,Confirmed
+B1278,Meera Patel,201,2026-10-03,2026-10-07,Direct,Confirmed
+B1279,Asha Chen,204,2026-10-03,2026-10-08,Online Agency,Confirmed
+B1280,Omar Smith,104,2026-10-04,2026-10-09,Corporate,Confirmed
+B1281,Neil Nair,203,2026-10-04,2026-10-08,Online Agency,Confirmed
+B1282,Neil Silva,302,2026-10-04,2026-10-08,Direct,Confirmed
+B1283,Sara Mehta,103,2026-10-06,2026-10-07,Walk-in,Confirmed
+B1284,Sara Chen,202,2026-10-06,2026-10-08,Online Agency,Confirmed
+B1285,Zoya Smith,102,2026-10-07,2026-10-08,Corporate,Confirmed
+B1286,Zoya Silva,101,2026-10-08,2026-10-12,Phone,Cancelled
+B1287,Ravi Smith,103,2026-10-08,2026-10-12,Walk-in,Confirmed
+B1288,Neil Chen,201,2026-10-08,2026-10-12,Walk-in,Confirmed
+B1289,Neil Silva,204,2026-10-08,2026-10-10,Corporate,Confirmed
+B1290,Neil Patel,302,2026-10-08,2026-10-09,Online Agency,Confirmed
+B1291,Neil Nair,102,2026-10-09,2026-10-13,Online Agency,Confirmed
+B1292,Asha Rao,302,2026-10-09,2026-10-14,Direct,Confirmed
+B1293,Sara Nair,202,2026-10-10,2026-10-14,Online Agency,Confirmed
+B1294,Ravi Silva,203,2026-10-10,2026-10-11,Corporate,Confirmed
+B1295,Li Joshi,301,2026-10-10,2026-10-15,Direct,Confirmed
+B1296,Meera Rao,204,2026-10-11,2026-10-12,Online Agency,Confirmed
+B1297,Meera Nair,203,2026-10-12,2026-10-16,Direct,Confirmed
+B1298,Neil Mehta,204,2026-10-12,2026-10-16,Direct,Confirmed
+B1299,Ravi Joshi,104,2026-10-13,2026-10-14,Direct,Confirmed
+B1300,Ana Joshi,102,2026-10-14,2026-10-19,Online Agency,Confirmed
+B1301,Ravi Nair,103,2026-10-14,2026-10-16,Phone,Confirmed
+B1302,Ana Joshi,302,2026-10-14,2026-10-15,Direct,Confirmed
+B1303,Ana Chen,202,2026-10-15,2026-10-17,Online Agency,Confirmed
+B1304,Priya Patel,302,2026-10-15,2026-10-19,Online Agency,Cancelled
+B1305,Omar Smith,104,2026-10-16,2026-10-21,Phone,Confirmed
+B1306,Ravi Nair,201,2026-10-16,2026-10-18,Walk-in,Confirmed
+B1307,Tom Nair,301,2026-10-17,2026-10-19,Direct,Confirmed
+B1308,Tom Mehta,103,2026-10-18,2026-10-20,Phone,Confirmed
+B1309,Priya Silva,204,2026-10-18,2026-10-21,Corporate,Confirmed
+B1310,Omar Shah,101,2026-10-19,2026-10-24,Direct,Confirmed
+B1311,Neil Nair,102,2026-10-19,2026-10-20,Walk-in,Confirmed
+B1312,Ravi Khan,201,2026-10-19,2026-10-22,Walk-in,Confirmed
+B1313,Ana Smith,202,2026-10-19,2026-10-24,Corporate,Confirmed
+B1314,Li Khan,301,2026-10-20,2026-10-24,Online Agency,Confirmed
+B1315,Ravi Mehta,103,2026-10-21,2026-10-25,Direct,Confirmed
+B1316,Ravi Joshi,203,2026-10-21,2026-10-23,Online Agency,Confirmed
+B1317,Omar Nair,204,2026-10-21,2026-10-23,Online Agency,Confirmed
+B1318,Meera Smith,102,2026-10-22,2026-10-26,Direct,Confirmed
+B1319,Meera Shah,302,2026-10-22,2026-10-25,Phone,Confirmed
+B1320,Asha Mehta,301,2026-10-24,2026-10-25,Corporate,Confirmed
+B1321,Meera Khan,103,2026-10-25,2026-10-29,Online Agency,Confirmed
+B1322,Neil Chen,104,2026-10-25,2026-10-30,Phone,Confirmed
+B1323,Ravi Nair,201,2026-10-25,2026-10-26,Phone,Confirmed
+B1324,Omar Nair,203,2026-10-25,2026-10-30,Online Agency,Confirmed
+B1325,Li Silva,204,2026-10-25,2026-10-26,Online Agency,Confirmed
+B1326,Asha Rao,204,2026-10-26,2026-10-30,Corporate,Confirmed
+B1327,Meera Patel,302,2026-10-26,2026-10-31,Walk-in,Confirmed
+B1328,Neil Joshi,102,2026-10-27,2026-10-29,Online Agency,Confirmed
+B1329,Zoya Shah,202,2026-10-27,2026-10-30,Online Agency,Confirmed
+B1330,Tom Shah,301,2026-10-28,2026-10-31,Corporate,Confirmed
+B1331,Tom Shah,101,2026-10-30,2026-11-02,Phone,Confirmed
+B1332,Neil Nair,102,2026-10-30,2026-11-04,Online Agency,Confirmed
+B1333,Ana Rao,103,2026-10-30,2026-11-01,Online Agency,Confirmed
+B1334,Tom Rao,104,2026-10-30,2026-11-01,Online Agency,Cancelled
+B1335,Zoya Patel,201,2026-10-30,2026-11-02,Direct,Confirmed
+B1336,Sara Joshi,203,2026-10-30,2026-11-03,Online Agency,Confirmed
+B1337,Joshua Hong,101,2026-10-25,2026-10-30,Corporate,Confirmed
